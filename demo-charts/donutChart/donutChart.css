@@ -1,0 +1,7 @@
+body {
+    background-color: steelblue;
+}
+#donutChart svg{
+    background-color: white;
+    margin: auto;
+}

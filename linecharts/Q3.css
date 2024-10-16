@@ -1,0 +1,46 @@
+* {
+    margin: 0px;
+}
+
+.chartTitle {
+    font-weight: bold;
+}
+
+.axisLable {
+    font-weight: bold;
+    fill: black;
+}
+
+
+/* Lines */
+.lines {
+    fill: none;
+    stroke-width: 2;
+}
+
+.lineLable {
+    font-size: 10px;
+}
+
+.circleLables {
+    font-size: 5px;
+    fill: white;
+}
+
+/* legend */
+.legendCircleText {
+    font-size: 10px;
+    fill: white;
+}
+
+.legendtitleText {
+    font-size: 8px;
+    font-weight: bold;
+}
+
+/* username */
+#signature {
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+}

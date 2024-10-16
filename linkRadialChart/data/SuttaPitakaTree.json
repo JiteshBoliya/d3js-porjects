@@ -1,0 +1,5209 @@
+[
+  {
+    "id": "sutta",
+    "ParentId": null,
+    "name": "Suttapiṭaka",
+    "nameEn": "Basket of Discourses",
+    "acro": "SP"
+  },
+  {
+    "id": "test",
+    "parentId": "sutta",
+    "name": "",
+    "acro": ""
+  },
+  {
+    "id": "test2",
+    "parentId": "test",
+    "name": "",
+    "acro": ""
+  },
+  {
+    "id": "dn",
+    "parentId": "sutta",
+    "name": "Dīghanikāya",
+    "nameEn": "Long Discourses Collection ",
+    "acro": "DN"
+  },
+  {
+    "id": "dn-silakkhandhavagga",
+    "parentId": "dn",
+    "name": "Sīlakkhandhavagga",
+    "nameEn": "The Chapter on the Entire Spectrum of Ethics ",
+    "acro": "DN 1-13"
+  },
+  {
+    "id": "dn1",
+    "parentId": "dn-silakkhandhavagga",
+    "name": "Brahmajālasutta",
+    "nameEn": "The Prime Net ",
+    "acro": "DN 1"
+  },
+  {
+    "id": "dn2",
+    "parentId": "dn-silakkhandhavagga",
+    "name": "Sāmaññaphalasutta",
+    "nameEn": "The Fruits of the Ascetic Life ",
+    "acro": "DN 2"
+  },
+  {
+    "id": "dn3",
+    "parentId": "dn-silakkhandhavagga",
+    "name": "Ambaṭṭhasutta",
+    "nameEn": "With Ambaṭṭha ",
+    "acro": "DN 3"
+  },
+  {
+    "id": "dn4",
+    "parentId": "dn-silakkhandhavagga",
+    "name": "Soṇadaṇḍasutta",
+    "nameEn": "With Soṇadaṇḍa ",
+    "acro": "DN 4"
+  },
+  {
+    "id": "dn5",
+    "parentId": "dn-silakkhandhavagga",
+    "name": "Kūṭadantasutta",
+    "nameEn": "With Kūṭadanta ",
+    "acro": "DN 5"
+  },
+  {
+    "id": "dn6",
+    "parentId": "dn-silakkhandhavagga",
+    "name": "Mahālisutta",
+    "nameEn": "With Mahāli ",
+    "acro": "DN 6"
+  },
+  {
+    "id": "dn7",
+    "parentId": "dn-silakkhandhavagga",
+    "name": "Jāliyasutta",
+    "nameEn": "With Jāliya ",
+    "acro": "DN 7"
+  },
+  {
+    "id": "dn8",
+    "parentId": "dn-silakkhandhavagga",
+    "name": "Mahāsīhanādasutta",
+    "nameEn": "The Longer Discourse on the Lion's Roar ",
+    "acro": "DN 8"
+  },
+  {
+    "id": "dn9",
+    "parentId": "dn-silakkhandhavagga",
+    "name": "Poṭṭhapādasutta",
+    "nameEn": "With Poṭṭhapāda ",
+    "acro": "DN 9"
+  },
+  {
+    "id": "dn10",
+    "parentId": "dn-silakkhandhavagga",
+    "name": "Subhasutta",
+    "nameEn": "With Subha ",
+    "acro": "DN 10"
+  },
+  {
+    "id": "dn11",
+    "parentId": "dn-silakkhandhavagga",
+    "name": "Kevaṭṭasutta",
+    "nameEn": "With Kevaddha ",
+    "acro": "DN 11"
+  },
+  {
+    "id": "dn12",
+    "parentId": "dn-silakkhandhavagga",
+    "name": "Lohiccasutta",
+    "nameEn": "With Lohicca ",
+    "acro": "DN 12"
+  },
+  {
+    "id": "dn13",
+    "parentId": "dn-silakkhandhavagga",
+    "name": "Tevijjasutta",
+    "nameEn": "The Three Knowledges ",
+    "acro": "DN 13"
+  },
+  {
+    "id": "dn-mahavagga",
+    "parentId": "dn",
+    "name": "Mahāvagga",
+    "nameEn": "The Great Chapter ",
+    "acro": "DN 14-23"
+  },
+  {
+    "id": "dn14",
+    "parentId": "dn-mahavagga",
+    "name": "Mahāpadānasutta",
+    "nameEn": "The Great Discourse on the Harvest of Deeds ",
+    "acro": "DN 14"
+  },
+  {
+    "id": "dn15",
+    "parentId": "dn-mahavagga",
+    "name": "Mahānidānasutta",
+    "nameEn": "The Great Discourse on Causation ",
+    "acro": "DN 15"
+  },
+  {
+    "id": "dn16",
+    "parentId": "dn-mahavagga",
+    "name": "Mahāparinibbānasutta",
+    "nameEn": "The Great Discourse on the Buddha's Extinguishment ",
+    "acro": "DN 16"
+  },
+  {
+    "id": "dn17",
+    "parentId": "dn-mahavagga",
+    "name": "Mahāsudassanasutta",
+    "nameEn": "King Mahāsudassana ",
+    "acro": "DN 17"
+  },
+  {
+    "id": "dn18",
+    "parentId": "dn-mahavagga",
+    "name": "Janavasabhasutta",
+    "nameEn": "With Janavasabha ",
+    "acro": "DN 18"
+  },
+  {
+    "id": "dn19",
+    "parentId": "dn-mahavagga",
+    "name": "Mahāgovindasutta",
+    "nameEn": "The Great Steward ",
+    "acro": "DN 19"
+  },
+  {
+    "id": "dn20",
+    "parentId": "dn-mahavagga",
+    "name": "Mahāsamayasutta",
+    "nameEn": "The Great Congregation ",
+    "acro": "DN 20"
+  },
+  {
+    "id": "dn21",
+    "parentId": "dn-mahavagga",
+    "name": "Sakkapañhasutta",
+    "nameEn": "Sakka's Questions ",
+    "acro": "DN 21"
+  },
+  {
+    "id": "dn22",
+    "parentId": "dn-mahavagga",
+    "name": "Mahāsatipaṭṭhānasutta",
+    "nameEn": "The Longer Discourse on Mindfulness Meditation ",
+    "acro": "DN 22"
+  },
+  {
+    "id": "dn23",
+    "parentId": "dn-mahavagga",
+    "name": "Pāyāsisutta",
+    "nameEn": "With Pāyāsi ",
+    "acro": "DN 23"
+  },
+  {
+    "id": "dn-pathikavagga",
+    "parentId": "dn",
+    "name": "Pāthikavagga",
+    "nameEn": "The Chapter with Pāṭikaputta ",
+    "acro": "DN 24-34"
+  },
+  {
+    "id": "dn24",
+    "parentId": "dn-pathikavagga",
+    "name": "Pāthikasutta",
+    "nameEn": "About Pāṭikaputta ",
+    "acro": "DN 24"
+  },
+  {
+    "id": "dn25",
+    "parentId": "dn-pathikavagga",
+    "name": "Udumbarikasutta",
+    "nameEn": "The Lion's Roar at Udumbarikā's Monastery ",
+    "acro": "DN 25"
+  },
+  {
+    "id": "dn26",
+    "parentId": "dn-pathikavagga",
+    "name": "Cakkavattisutta",
+    "nameEn": "The Wheel-Turning Monarch ",
+    "acro": "DN 26"
+  },
+  {
+    "id": "dn27",
+    "parentId": "dn-pathikavagga",
+    "name": "Aggaññasutta",
+    "nameEn": "The Origin of the World ",
+    "acro": "DN 27"
+  },
+  {
+    "id": "dn28",
+    "parentId": "dn-pathikavagga",
+    "name": "Sampasādanīyasutta",
+    "nameEn": "Inspiring Confidence ",
+    "acro": "DN 28"
+  },
+  {
+    "id": "dn29",
+    "parentId": "dn-pathikavagga",
+    "name": "Pāsādikasutta",
+    "nameEn": "An Impressive Discourse ",
+    "acro": "DN 29"
+  },
+  {
+    "id": "dn30",
+    "parentId": "dn-pathikavagga",
+    "name": "Lakkhaṇasutta",
+    "nameEn": "The Marks of a Great Man ",
+    "acro": "DN 30"
+  },
+  {
+    "id": "dn31",
+    "parentId": "dn-pathikavagga",
+    "name": "Siṅgālasutta",
+    "nameEn": "Advice to Sigālaka ",
+    "acro": "DN 31"
+  },
+  {
+    "id": "dn32",
+    "parentId": "dn-pathikavagga",
+    "name": "Āṭānāṭiyasutta",
+    "nameEn": "The Āṭānāṭiya Protection ",
+    "acro": "DN 32"
+  },
+  {
+    "id": "dn33",
+    "parentId": "dn-pathikavagga",
+    "name": "Saṅgītisutta",
+    "nameEn": "Reciting in Concert ",
+    "acro": "DN 33"
+  },
+  {
+    "id": "dn34",
+    "parentId": "dn-pathikavagga",
+    "name": "Dasuttarasutta",
+    "nameEn": "Up to Ten ",
+    "acro": "DN 34"
+  },
+  {
+    "id": "mn",
+    "parentId": "sutta",
+    "name": "Majjhimanikāya",
+    "nameEn": "Middle Discourses Collection ",
+    "acro": "MN"
+  },
+  {
+    "id": "mn-mulapannasa",
+    "parentId": "mn",
+    "name": "Mūlapaṇṇāsa",
+    "nameEn": "The First Fifty",
+    "acro": "MN 1-50"
+  },
+  {
+    "id": "mn-mulapariyayavagga",
+    "parentId": "mn-mulapannasa",
+    "name": "Mūlapariyāyavagga",
+    "nameEn": "The Chapter on the Root of All Things",
+    "acro": "MN 1-10"
+  },
+  {
+    "id": "mn1",
+    "parentId": "mn-mulapariyayavagga",
+    "name": "Mūlapariyāyasutta",
+    "nameEn": "The Root of All Things",
+    "acro": "MN 1"
+  },
+  {
+    "id": "mn2",
+    "parentId": "mn-mulapariyayavagga",
+    "name": "Sabbāsavasutta",
+    "nameEn": "All the Defilements",
+    "acro": "MN 2"
+  },
+  {
+    "id": "mn3",
+    "parentId": "mn-mulapariyayavagga",
+    "name": "Dhammadāyādasutta",
+    "nameEn": "Heirs in the Teaching",
+    "acro": "MN 3"
+  },
+  {
+    "id": "mn4",
+    "parentId": "mn-mulapariyayavagga",
+    "name": "Bhayabheravasutta",
+    "nameEn": "Fear and Dread",
+    "acro": "MN 4"
+  },
+  {
+    "id": "mn5",
+    "parentId": "mn-mulapariyayavagga",
+    "name": "Anaṅgaṇasutta",
+    "nameEn": "Unblemished",
+    "acro": "MN 5"
+  },
+  {
+    "id": "mn6",
+    "parentId": "mn-mulapariyayavagga",
+    "name": "Ākaṅkheyyasutta",
+    "nameEn": "One Might Wish",
+    "acro": "MN 6"
+  },
+  {
+    "id": "mn7",
+    "parentId": "mn-mulapariyayavagga",
+    "name": "Vatthasutta",
+    "nameEn": "The Simile of the Cloth",
+    "acro": "MN 7"
+  },
+  {
+    "id": "mn8",
+    "parentId": "mn-mulapariyayavagga",
+    "name": "Sallekhasutta",
+    "nameEn": "Self-Effacement",
+    "acro": "MN 8"
+  },
+  {
+    "id": "mn9",
+    "parentId": "mn-mulapariyayavagga",
+    "name": "Sammādiṭṭhisutta",
+    "nameEn": "Right View",
+    "acro": "MN 9"
+  },
+  {
+    "id": "mn10",
+    "parentId": "mn-mulapariyayavagga",
+    "name": "Mahāsatipaṭṭhānasutta",
+    "nameEn": "The Discourse on Mindfulness Meditation",
+    "acro": "MN 10"
+  },
+  {
+    "id": "mn-sihanadavagga",
+    "parentId": "mn-mulapannasa",
+    "name": "Sīhanādavagga",
+    "nameEn": "The Chapter on the Lion's Roar",
+    "acro": "MN 11-20"
+  },
+  {
+    "id": "mn11",
+    "parentId": "mn-sihanadavagga",
+    "name": "Cūḷasīhanādasutta",
+    "nameEn": "The Shorter Discourse on the Lion's Roar",
+    "acro": "MN 11"
+  },
+  {
+    "id": "mn12",
+    "parentId": "mn-sihanadavagga",
+    "name": "Mahāsīhanādasutta",
+    "nameEn": "The Longer Discourse on the Lion's Roar",
+    "acro": "MN 12"
+  },
+  {
+    "id": "mn13",
+    "parentId": "mn-sihanadavagga",
+    "name": "Mahādukkhakkhandhasutta",
+    "nameEn": "The Longer Discourse on the Mass of Suffering",
+    "acro": "MN 13"
+  },
+  {
+    "id": "mn14",
+    "parentId": "mn-sihanadavagga",
+    "name": "Cūḷadukkhakkhandhasutta",
+    "nameEn": "The Shorter Discourse on the Mass of Suffering",
+    "acro": "MN 14"
+  },
+  {
+    "id": "mn15",
+    "parentId": "mn-sihanadavagga",
+    "name": "Anumānasutta",
+    "nameEn": "Measuring Up",
+    "acro": "MN 15"
+  },
+  {
+    "id": "mn16",
+    "parentId": "mn-sihanadavagga",
+    "name": "Cetokhilasutta",
+    "nameEn": "Emotional Barrenness",
+    "acro": "MN 16"
+  },
+  {
+    "id": "mn17",
+    "parentId": "mn-sihanadavagga",
+    "name": "Vanapatthasutta",
+    "nameEn": "Jungle Thickets",
+    "acro": "MN 17"
+  },
+  {
+    "id": "mn18",
+    "parentId": "mn-sihanadavagga",
+    "name": "Madhupiṇḍikasutta",
+    "nameEn": "The Honey-Cake",
+    "acro": "MN 18"
+  },
+  {
+    "id": "mn19",
+    "parentId": "mn-sihanadavagga",
+    "name": "Dvedhāvitakkasutta",
+    "nameEn": "Two Kinds of Thought",
+    "acro": "MN 19"
+  },
+  {
+    "id": "mn20",
+    "parentId": "mn-sihanadavagga",
+    "name": "Vitakkasaṇṭhānasutta",
+    "nameEn": "How to Stop Thinking",
+    "acro": "MN 20"
+  },
+  {
+    "id": "mn-opammavagga",
+    "parentId": "mn-mulapannasa",
+    "name": "Opammavagga",
+    "nameEn": "The Chapter of Similes",
+    "acro": "MN 21-30"
+  },
+  {
+    "id": "mn21",
+    "parentId": "mn-opammavagga",
+    "name": "Kakacūpamasutta",
+    "nameEn": "The Simile of the Saw",
+    "acro": "MN 21"
+  },
+  {
+    "id": "mn22",
+    "parentId": "mn-opammavagga",
+    "name": "Alagaddūpamasutta",
+    "nameEn": "The Simile of the Snake",
+    "acro": "MN 22"
+  },
+  {
+    "id": "mn23",
+    "parentId": "mn-opammavagga",
+    "name": "Vammikasutta",
+    "nameEn": "The Ant-Hill",
+    "acro": "MN 23"
+  },
+  {
+    "id": "mn24",
+    "parentId": "mn-opammavagga",
+    "name": "Rathavinītasutta",
+    "nameEn": "Prepared Chariots",
+    "acro": "MN 24"
+  },
+  {
+    "id": "mn25",
+    "parentId": "mn-opammavagga",
+    "name": "Nivāpasutta",
+    "nameEn": "Fodder",
+    "acro": "MN 25"
+  },
+  {
+    "id": "mn26",
+    "parentId": "mn-opammavagga",
+    "name": "Pāsarāsisutta",
+    "nameEn": "The Noble Search",
+    "acro": "MN 26"
+  },
+  {
+    "id": "mn27",
+    "parentId": "mn-opammavagga",
+    "name": "Cūḷahatthipadopamasutta",
+    "nameEn": "The Shorter Elephant's Footprint Simile",
+    "acro": "MN 27"
+  },
+  {
+    "id": "mn28",
+    "parentId": "mn-opammavagga",
+    "name": "Mahāhatthipadopamasutta",
+    "nameEn": "The Longer Simile of the Elephant's Footprint",
+    "acro": "MN 28"
+  },
+  {
+    "id": "mn29",
+    "parentId": "mn-opammavagga",
+    "name": "Mahāsāropamasutta",
+    "nameEn": "The Longer Simile of the Heartwood",
+    "acro": "MN 29"
+  },
+  {
+    "id": "mn30",
+    "parentId": "mn-opammavagga",
+    "name": "Cūḷasāropamasutta",
+    "nameEn": "The Shorter Simile of the Heartwood",
+    "acro": "MN 30"
+  },
+  {
+    "id": "mn-mahayamakavagga",
+    "parentId": "mn-mulapannasa",
+    "name": "Mahāyamakavagga",
+    "nameEn": "The Greater Chapter on Pairs",
+    "acro": "MN 31-40"
+  },
+  {
+    "id": "mn31",
+    "parentId": "mn-mahayamakavagga",
+    "name": "Cūḷagosiṅgasutta",
+    "nameEn": "The Shorter Discourse at Gosiṅga",
+    "acro": "MN 31"
+  },
+  {
+    "id": "mn32",
+    "parentId": "mn-mahayamakavagga",
+    "name": "Mahāgosiṅgasutta",
+    "nameEn": "The Longer Discourse at Gosiṅga",
+    "acro": "MN 32"
+  },
+  {
+    "id": "mn33",
+    "parentId": "mn-mahayamakavagga",
+    "name": "Mahāgopālakasutta",
+    "nameEn": "The Longer Discourse on the Cowherd",
+    "acro": "MN 33"
+  },
+  {
+    "id": "mn34",
+    "parentId": "mn-mahayamakavagga",
+    "name": "Cūḷagopālakasutta",
+    "nameEn": "The Shorter Discourse on the Cowherd",
+    "acro": "MN 34"
+  },
+  {
+    "id": "mn35",
+    "parentId": "mn-mahayamakavagga",
+    "name": "Cūḷasaccakasutta",
+    "nameEn": "The Shorter Discourse With Saccaka",
+    "acro": "MN 35"
+  },
+  {
+    "id": "mn36",
+    "parentId": "mn-mahayamakavagga",
+    "name": "Mahāsaccakasutta",
+    "nameEn": "The Longer Discourse With Saccaka",
+    "acro": "MN 36"
+  },
+  {
+    "id": "mn37",
+    "parentId": "mn-mahayamakavagga",
+    "name": "Cūḷataṇhāsaṅkhayasutta",
+    "nameEn": "The Shorter Discourse on the Ending of Craving",
+    "acro": "MN 37"
+  },
+  {
+    "id": "mn38",
+    "parentId": "mn-mahayamakavagga",
+    "name": "Mahātaṇhāsaṅkhayasutta",
+    "nameEn": "The Longer Discourse on the Ending of Craving",
+    "acro": "MN 38"
+  },
+  {
+    "id": "mn39",
+    "parentId": "mn-mahayamakavagga",
+    "name": "Mahāassapurasutta",
+    "nameEn": "The Longer Discourse at Assapura",
+    "acro": "MN 39"
+  },
+  {
+    "id": "mn40",
+    "parentId": "mn-mahayamakavagga",
+    "name": "Cūḷaassapurasutta",
+    "nameEn": "The Shorter Discourse at Assapura",
+    "acro": "MN 40"
+  },
+  {
+    "id": "mn-culayamakavagga",
+    "parentId": "mn-mulapannasa",
+    "name": "Cūḷayamakavagga",
+    "nameEn": "The Lesser Chapter on Pairs",
+    "acro": "MN 41-50"
+  },
+  {
+    "id": "mn41",
+    "parentId": "mn-culayamakavagga",
+    "name": "Sāleyyakasutta",
+    "nameEn": "The People of Sālā",
+    "acro": "MN 41"
+  },
+  {
+    "id": "mn42",
+    "parentId": "mn-culayamakavagga",
+    "name": "Verañjakasutta",
+    "nameEn": "The People of Verañja",
+    "acro": "MN 42"
+  },
+  {
+    "id": "mn43",
+    "parentId": "mn-culayamakavagga",
+    "name": "Mahāvedallasutta",
+    "nameEn": "The Great Classification",
+    "acro": "MN 43"
+  },
+  {
+    "id": "mn44",
+    "parentId": "mn-culayamakavagga",
+    "name": "Cūḷavedallasutta",
+    "nameEn": "The Shorter Classification",
+    "acro": "MN 44"
+  },
+  {
+    "id": "mn45",
+    "parentId": "mn-culayamakavagga",
+    "name": "Cūḷadhammasamādānasutta",
+    "nameEn": "The Shorter Discourse on Taking Up Practices",
+    "acro": "MN 45"
+  },
+  {
+    "id": "mn46",
+    "parentId": "mn-culayamakavagga",
+    "name": "Mahādhammasamādānasutta",
+    "nameEn": "The Great Discourse on Taking Up Practices",
+    "acro": "MN 46"
+  },
+  {
+    "id": "mn47",
+    "parentId": "mn-culayamakavagga",
+    "name": "Vīmaṁsakasutta",
+    "nameEn": "The Inquirer",
+    "acro": "MN 47"
+  },
+  {
+    "id": "mn48",
+    "parentId": "mn-culayamakavagga",
+    "name": "Kosambiyasutta",
+    "nameEn": "The Mendicants of Kosambi",
+    "acro": "MN 48"
+  },
+  {
+    "id": "mn49",
+    "parentId": "mn-culayamakavagga",
+    "name": "Brahmanimantanikasutta",
+    "nameEn": "On the Invitation of Brahmā",
+    "acro": "MN 49"
+  },
+  {
+    "id": "mn50",
+    "parentId": "mn-culayamakavagga",
+    "name": "Māratajjanīyasutta",
+    "nameEn": "The Rebuke of Māra",
+    "acro": "MN 50"
+  },
+  {
+    "id": "mn-majjhimapannasa",
+    "parentId": "mn",
+    "name": "Majjhimapaṇṇāsa",
+    "nameEn": "The Middle Fifty",
+    "acro": "MN 51-100"
+  },
+  {
+    "id": "mn-gahapativagga",
+    "parentId": "mn-majjhimapannasa",
+    "name": "Gahapativagga",
+    "nameEn": "The Chapter on Householders",
+    "acro": "MN 51-60"
+  },
+  {
+    "id": "mn51",
+    "parentId": "mn-gahapativagga",
+    "name": "Kandarakasutta",
+    "nameEn": "With Kandaraka",
+    "acro": "MN 51"
+  },
+  {
+    "id": "mn52",
+    "parentId": "mn-gahapativagga",
+    "name": "Aṭṭhakanāgarasutta",
+    "nameEn": "The Man From the City of Aṭṭhaka",
+    "acro": "MN 52"
+  },
+  {
+    "id": "mn53",
+    "parentId": "mn-gahapativagga",
+    "name": "Sekhasutta",
+    "nameEn": "A Trainee",
+    "acro": "MN 53"
+  },
+  {
+    "id": "mn54",
+    "parentId": "mn-gahapativagga",
+    "name": "Potaliyasutta",
+    "nameEn": "With Potaliya the Householder",
+    "acro": "MN 54"
+  },
+  {
+    "id": "mn55",
+    "parentId": "mn-gahapativagga",
+    "name": "Jīvakasutta",
+    "nameEn": "With Jīvaka",
+    "acro": "MN 55"
+  },
+  {
+    "id": "mn56",
+    "parentId": "mn-gahapativagga",
+    "name": "Upālisutta",
+    "nameEn": "With Upāli",
+    "acro": "MN 56"
+  },
+  {
+    "id": "mn57",
+    "parentId": "mn-gahapativagga",
+    "name": "Kukkuravatikasutta",
+    "nameEn": "The Ascetic Who Behaved Like a Dog",
+    "acro": "MN 57"
+  },
+  {
+    "id": "mn58",
+    "parentId": "mn-gahapativagga",
+    "name": "Abhayarājakumārasutta",
+    "nameEn": "With Prince Abhaya",
+    "acro": "MN 58"
+  },
+  {
+    "id": "mn59",
+    "parentId": "mn-gahapativagga",
+    "name": "Bahuvedanīyasutta",
+    "nameEn": "The Many Kinds of Feeling",
+    "acro": "MN 59"
+  },
+  {
+    "id": "mn60",
+    "parentId": "mn-gahapativagga",
+    "name": "Apaṇṇakasutta",
+    "nameEn": "Guaranteed",
+    "acro": "MN 60"
+  },
+  {
+    "id": "mn-bhikkhuvagga",
+    "parentId": "mn-majjhimapannasa",
+    "name": "Bhikkhuvagga",
+    "nameEn": "The Chapter on Mendicants",
+    "acro": "MN 61-70"
+  },
+  {
+    "id": "mn61",
+    "parentId": "mn-bhikkhuvagga",
+    "name": "Ambalaṭṭhikarāhulovādasutta",
+    "nameEn": "Advice to Rāhula at Ambalaṭṭhika",
+    "acro": "MN 61"
+  },
+  {
+    "id": "mn62",
+    "parentId": "mn-bhikkhuvagga",
+    "name": "Mahārāhulovādasutta",
+    "nameEn": "The Longer Advice to Rāhula",
+    "acro": "MN 62"
+  },
+  {
+    "id": "mn63",
+    "parentId": "mn-bhikkhuvagga",
+    "name": "Cūḷamālukyasutta",
+    "nameEn": "The Shorter Discourse With Māluṅkya",
+    "acro": "MN 63"
+  },
+  {
+    "id": "mn64",
+    "parentId": "mn-bhikkhuvagga",
+    "name": "Mahāmālukyasutta",
+    "nameEn": "The Longer Discourse With Māluṅkya",
+    "acro": "MN 64"
+  },
+  {
+    "id": "mn65",
+    "parentId": "mn-bhikkhuvagga",
+    "name": "Bhaddālisutta",
+    "nameEn": "With Bhaddāli",
+    "acro": "MN 65"
+  },
+  {
+    "id": "mn66",
+    "parentId": "mn-bhikkhuvagga",
+    "name": "Laṭukikopamasutta",
+    "nameEn": "The Simile of the Quail",
+    "acro": "MN 66"
+  },
+  {
+    "id": "mn67",
+    "parentId": "mn-bhikkhuvagga",
+    "name": "Cātumasutta",
+    "nameEn": "At Cātumā",
+    "acro": "MN 67"
+  },
+  {
+    "id": "mn68",
+    "parentId": "mn-bhikkhuvagga",
+    "name": "Naḷakapānasutta",
+    "nameEn": "At Naḷakapāna",
+    "acro": "MN 68"
+  },
+  {
+    "id": "mn69",
+    "parentId": "mn-bhikkhuvagga",
+    "name": "Goliyānisutta",
+    "nameEn": "With Gulissāni",
+    "acro": "MN 69"
+  },
+  {
+    "id": "mn70",
+    "parentId": "mn-bhikkhuvagga",
+    "name": "Kīṭāgirisutta",
+    "nameEn": "At Kīṭāgiri",
+    "acro": "MN 70"
+  },
+  {
+    "id": "mn-paribbajakavagga",
+    "parentId": "mn-majjhimapannasa",
+    "name": "Paribbājakavagga",
+    "nameEn": "The Chapter on Wanderers",
+    "acro": "MN 71-80"
+  },
+  {
+    "id": "mn71",
+    "parentId": "mn-paribbajakavagga",
+    "name": "Tevijjavacchasutta",
+    "nameEn": "To Vacchagotta on the Three Knowledges",
+    "acro": "MN 71"
+  },
+  {
+    "id": "mn72",
+    "parentId": "mn-paribbajakavagga",
+    "name": "Aggivacchasutta",
+    "nameEn": "With Vacchagotta on Fire",
+    "acro": "MN 72"
+  },
+  {
+    "id": "mn73",
+    "parentId": "mn-paribbajakavagga",
+    "name": "Mahāvacchasutta",
+    "nameEn": "The Longer Discourse With Vacchagotta",
+    "acro": "MN 73"
+  },
+  {
+    "id": "mn74",
+    "parentId": "mn-paribbajakavagga",
+    "name": "Dīghanakhasutta",
+    "nameEn": "With Dīghanakha",
+    "acro": "MN 74"
+  },
+  {
+    "id": "mn75",
+    "parentId": "mn-paribbajakavagga",
+    "name": "Māgaṇḍiyasutta",
+    "nameEn": "With Māgaṇḍiya",
+    "acro": "MN 75"
+  },
+  {
+    "id": "mn76",
+    "parentId": "mn-paribbajakavagga",
+    "name": "Sandakasutta",
+    "nameEn": "With Sandaka",
+    "acro": "MN 76"
+  },
+  {
+    "id": "mn77",
+    "parentId": "mn-paribbajakavagga",
+    "name": "Mahāsakuludāyisutta",
+    "nameEn": "The Longer Discourse with Sakuludāyī",
+    "acro": "MN 77"
+  },
+  {
+    "id": "mn78",
+    "parentId": "mn-paribbajakavagga",
+    "name": "Samaṇamuṇḍikasutta",
+    "nameEn": "With Uggāhamāna Samaṇamuṇḍika",
+    "acro": "MN 78"
+  },
+  {
+    "id": "mn79",
+    "parentId": "mn-paribbajakavagga",
+    "name": "Cūḷasakuludāyisutta",
+    "nameEn": "The Shorter Discourse With Sakuludāyī",
+    "acro": "MN 79"
+  },
+  {
+    "id": "mn80",
+    "parentId": "mn-paribbajakavagga",
+    "name": "Vekhanasasutta",
+    "nameEn": "With Vekhanasa",
+    "acro": "MN 80"
+  },
+  {
+    "id": "mn-rajavagga",
+    "parentId": "mn-majjhimapannasa",
+    "name": "Rājavagga",
+    "nameEn": "The Chapter on Kings",
+    "acro": "MN 81-90"
+  },
+  {
+    "id": "mn81",
+    "parentId": "mn-rajavagga",
+    "name": "Ghaṭikārasutta",
+    "nameEn": "With Ghaṭīkāra",
+    "acro": "MN 81"
+  },
+  {
+    "id": "mn82",
+    "parentId": "mn-rajavagga",
+    "name": "Raṭṭhapālasutta",
+    "nameEn": "With Raṭṭhapāla",
+    "acro": "MN 82"
+  },
+  {
+    "id": "mn83",
+    "parentId": "mn-rajavagga",
+    "name": "Maghadevasutta",
+    "nameEn": "About King Makhādeva",
+    "acro": "MN 83"
+  },
+  {
+    "id": "mn84",
+    "parentId": "mn-rajavagga",
+    "name": "Madhurasutta",
+    "nameEn": "At Madhurā",
+    "acro": "MN 84"
+  },
+  {
+    "id": "mn85",
+    "parentId": "mn-rajavagga",
+    "name": "Bodhirājakumārasutta",
+    "nameEn": "With Prince Bodhi",
+    "acro": "MN 85"
+  },
+  {
+    "id": "mn86",
+    "parentId": "mn-rajavagga",
+    "name": "Aṅgulimālasutta",
+    "nameEn": "With Aṅgulimāla",
+    "acro": "MN 86"
+  },
+  {
+    "id": "mn87",
+    "parentId": "mn-rajavagga",
+    "name": "Piyajātikasutta",
+    "nameEn": "Born From the Beloved",
+    "acro": "MN 87"
+  },
+  {
+    "id": "mn88",
+    "parentId": "mn-rajavagga",
+    "name": "Bāhitikasutta",
+    "nameEn": "The Imported Cloth",
+    "acro": "MN 88"
+  },
+  {
+    "id": "mn89",
+    "parentId": "mn-rajavagga",
+    "name": "Dhammacetiyasutta",
+    "nameEn": "Shrines to the Teaching",
+    "acro": "MN 89"
+  },
+  {
+    "id": "mn90",
+    "parentId": "mn-rajavagga",
+    "name": "Kaṇṇakatthalasutta",
+    "nameEn": "At Kaṇṇakatthala",
+    "acro": "MN 90"
+  },
+  {
+    "id": "mn-brahmanavagga",
+    "parentId": "mn-majjhimapannasa",
+    "name": "Brāhmaṇavagga",
+    "nameEn": "The Chapter on Brahmins",
+    "acro": "MN 91-100"
+  },
+  {
+    "id": "mn91",
+    "parentId": "mn-brahmanavagga",
+    "name": "Brahmāyusutta",
+    "nameEn": "With Brahmāyu",
+    "acro": "MN 91"
+  },
+  {
+    "id": "mn92",
+    "parentId": "mn-brahmanavagga",
+    "name": "Selasutta",
+    "nameEn": "With Sela",
+    "acro": "MN 92"
+  },
+  {
+    "id": "mn93",
+    "parentId": "mn-brahmanavagga",
+    "name": "Assalāyanasutta",
+    "nameEn": "With Assalāyana",
+    "acro": "MN 93"
+  },
+  {
+    "id": "mn94",
+    "parentId": "mn-brahmanavagga",
+    "name": "Ghoṭamukhasutta",
+    "nameEn": "With Ghoṭamukha",
+    "acro": "MN 94"
+  },
+  {
+    "id": "mn95",
+    "parentId": "mn-brahmanavagga",
+    "name": "Caṅkīsutta",
+    "nameEn": "With Caṅkī",
+    "acro": "MN 95"
+  },
+  {
+    "id": "mn96",
+    "parentId": "mn-brahmanavagga",
+    "name": "Esukārīsutta",
+    "nameEn": "With Esukārī",
+    "acro": "MN 96"
+  },
+  {
+    "id": "mn97",
+    "parentId": "mn-brahmanavagga",
+    "name": "Dhanañjānisutta",
+    "nameEn": "With Dhanañjāni",
+    "acro": "MN 97"
+  },
+  {
+    "id": "mn98",
+    "parentId": "mn-brahmanavagga",
+    "name": "Vāseṭṭhasutta",
+    "nameEn": "With Vāseṭṭha",
+    "acro": "MN 98"
+  },
+  {
+    "id": "mn99",
+    "parentId": "mn-brahmanavagga",
+    "name": "Subhasutta",
+    "nameEn": "With Subha",
+    "acro": "MN 99"
+  },
+  {
+    "id": "mn100",
+    "parentId": "mn-brahmanavagga",
+    "name": "Saṅgāravasutta",
+    "nameEn": "With Saṅgārava",
+    "acro": "MN 100"
+  },
+  {
+    "id": "mn-uparipannasa",
+    "parentId": "mn",
+    "name": "Uparipaṇṇāsa",
+    "nameEn": "The Final Fifty",
+    "acro": "MN 101-152"
+  },
+  {
+    "id": "mn-devadahavagga",
+    "parentId": "mn-uparipannasa",
+    "name": "Devadahavagga",
+    "nameEn": "The Chapter Beginning With Devadaha",
+    "acro": "MN 101-110"
+  },
+  {
+    "id": "mn101",
+    "parentId": "mn-devadahavagga",
+    "name": "Devadahasutta",
+    "nameEn": "At Devadaha",
+    "acro": "MN 101"
+  },
+  {
+    "id": "mn102",
+    "parentId": "mn-devadahavagga",
+    "name": "Pañcattayasutta",
+    "nameEn": "The Five and Three",
+    "acro": "MN 102"
+  },
+  {
+    "id": "mn103",
+    "parentId": "mn-devadahavagga",
+    "name": "Kintisutta",
+    "nameEn": "Is This What You Think Of Me?",
+    "acro": "MN 103"
+  },
+  {
+    "id": "mn104",
+    "parentId": "mn-devadahavagga",
+    "name": "Sāmagāmasutta",
+    "nameEn": "At Sāmagāma",
+    "acro": "MN 104"
+  },
+  {
+    "id": "mn105",
+    "parentId": "mn-devadahavagga",
+    "name": "Sunakkhattasutta",
+    "nameEn": "With Sunakkhatta",
+    "acro": "MN 105"
+  },
+  {
+    "id": "mn106",
+    "parentId": "mn-devadahavagga",
+    "name": "Āneñjasappāyasutta",
+    "nameEn": "Conducive to the Imperturbable",
+    "acro": "MN 106"
+  },
+  {
+    "id": "mn107",
+    "parentId": "mn-devadahavagga",
+    "name": "Gaṇakamoggallānasutta",
+    "nameEn": "With Moggallāna the Accountant",
+    "acro": "MN 107"
+  },
+  {
+    "id": "mn108",
+    "parentId": "mn-devadahavagga",
+    "name": "Gopakamoggallānasutta",
+    "nameEn": "With Moggallāna the Guardian",
+    "acro": "MN 108"
+  },
+  {
+    "id": "mn109",
+    "parentId": "mn-devadahavagga",
+    "name": "Mahāpuṇṇamasutta",
+    "nameEn": "The Longer Discourse on the Full-Moon Night",
+    "acro": "MN 109"
+  },
+  {
+    "id": "mn110",
+    "parentId": "mn-devadahavagga",
+    "name": "Cūḷapuṇṇamasutta",
+    "nameEn": "The Shorter Discourse on the Full-Moon Night",
+    "acro": "MN 110"
+  },
+  {
+    "id": "mn-anupadavagga",
+    "parentId": "mn-uparipannasa",
+    "name": "Anupadavagga",
+    "nameEn": "The Chapter Beginning with One By One",
+    "acro": "MN 111-120"
+  },
+  {
+    "id": "mn111",
+    "parentId": "mn-anupadavagga",
+    "name": "Anupadasutta",
+    "nameEn": "One by One",
+    "acro": "MN 111"
+  },
+  {
+    "id": "mn112",
+    "parentId": "mn-anupadavagga",
+    "name": "Chabbisodhanasutta",
+    "nameEn": "The Sixfold Purification",
+    "acro": "MN 112"
+  },
+  {
+    "id": "mn113",
+    "parentId": "mn-anupadavagga",
+    "name": "Sappurisasutta",
+    "nameEn": "A Good Person",
+    "acro": "MN 113"
+  },
+  {
+    "id": "mn114",
+    "parentId": "mn-anupadavagga",
+    "name": "Sevitabbāsevitabbasutta",
+    "nameEn": "What Should and Should Not Be Cultivated",
+    "acro": "MN 114"
+  },
+  {
+    "id": "mn115",
+    "parentId": "mn-anupadavagga",
+    "name": "Bahudhātukasutta",
+    "nameEn": "Many Elements",
+    "acro": "MN 115"
+  },
+  {
+    "id": "mn116",
+    "parentId": "mn-anupadavagga",
+    "name": "Isigilisutta",
+    "nameEn": "At Isigili",
+    "acro": "MN 116"
+  },
+  {
+    "id": "mn117",
+    "parentId": "mn-anupadavagga",
+    "name": "Mahācattārīsakasutta",
+    "nameEn": "The Great Forty",
+    "acro": "MN 117"
+  },
+  {
+    "id": "mn118",
+    "parentId": "mn-anupadavagga",
+    "name": "Ānāpānassatisutta",
+    "nameEn": "Mindfulness of Breathing",
+    "acro": "MN 118"
+  },
+  {
+    "id": "mn119",
+    "parentId": "mn-anupadavagga",
+    "name": "Kāyagatāsatisutta",
+    "nameEn": "Mindfulness of the Body",
+    "acro": "MN 119"
+  },
+  {
+    "id": "mn120",
+    "parentId": "mn-anupadavagga",
+    "name": "Saṅkhārupapattisutta",
+    "nameEn": "Rebirth by Choice",
+    "acro": "MN 120"
+  },
+  {
+    "id": "mn-sunnatavagga",
+    "parentId": "mn-uparipannasa",
+    "name": "Suññatavagga",
+    "nameEn": "The Chapter Beginning with Emptiness",
+    "acro": "MN 121-130"
+  },
+  {
+    "id": "mn121",
+    "parentId": "mn-sunnatavagga",
+    "name": "Cūḷasuññatasutta",
+    "nameEn": "The Shorter Discourse on Emptiness",
+    "acro": "MN 121"
+  },
+  {
+    "id": "mn122",
+    "parentId": "mn-sunnatavagga",
+    "name": "Mahāsuññatasutta",
+    "nameEn": "The Longer Discourse on Emptiness",
+    "acro": "MN 122"
+  },
+  {
+    "id": "mn123",
+    "parentId": "mn-sunnatavagga",
+    "name": "Acchariyaabbhutasutta",
+    "nameEn": "Incredible and Amazing",
+    "acro": "MN 123"
+  },
+  {
+    "id": "mn124",
+    "parentId": "mn-sunnatavagga",
+    "name": "Bākulasutta",
+    "nameEn": "With Bakkula",
+    "acro": "MN 124"
+  },
+  {
+    "id": "mn125",
+    "parentId": "mn-sunnatavagga",
+    "name": "Dantabhūmisutta",
+    "nameEn": "The Level of the Tamed",
+    "acro": "MN 125"
+  },
+  {
+    "id": "mn126",
+    "parentId": "mn-sunnatavagga",
+    "name": "Bhūmijasutta",
+    "nameEn": "With Bhūmija",
+    "acro": "MN 126"
+  },
+  {
+    "id": "mn127",
+    "parentId": "mn-sunnatavagga",
+    "name": "Anuruddhasutta",
+    "nameEn": "With Anuruddha",
+    "acro": "MN 127"
+  },
+  {
+    "id": "mn128",
+    "parentId": "mn-sunnatavagga",
+    "name": "Upakkilesasutta",
+    "nameEn": "Corruptions",
+    "acro": "MN 128"
+  },
+  {
+    "id": "mn129",
+    "parentId": "mn-sunnatavagga",
+    "name": "Bālapaṇḍitasutta",
+    "nameEn": "The Foolish and the Astute",
+    "acro": "MN 129"
+  },
+  {
+    "id": "mn130",
+    "parentId": "mn-sunnatavagga",
+    "name": "Devadūtasutta",
+    "nameEn": "Messengers of the Gods",
+    "acro": "MN 130"
+  },
+  {
+    "id": "mn-vibhangavagga",
+    "parentId": "mn-uparipannasa",
+    "name": "Vibhaṅgavagga",
+    "nameEn": "The Chapter on Analysis",
+    "acro": "MN 131-142"
+  },
+  {
+    "id": "mn131",
+    "parentId": "mn-vibhangavagga",
+    "name": "Bhaddekarattasutta",
+    "nameEn": "One Fine Night",
+    "acro": "MN 131"
+  },
+  {
+    "id": "mn132",
+    "parentId": "mn-vibhangavagga",
+    "name": "Ānandabhaddekarattasutta",
+    "nameEn": "Ānanda and One Fine Night",
+    "acro": "MN 132"
+  },
+  {
+    "id": "mn133",
+    "parentId": "mn-vibhangavagga",
+    "name": "Mahākaccānabhaddekarattasutta",
+    "nameEn": "Mahākaccāna and One Fine Night",
+    "acro": "MN 133"
+  },
+  {
+    "id": "mn134",
+    "parentId": "mn-vibhangavagga",
+    "name": "Lomasakaṅgiyabhaddekarattasutta",
+    "nameEn": "Lomasakaṅgiya and One Fine Night",
+    "acro": "MN 134"
+  },
+  {
+    "id": "mn135",
+    "parentId": "mn-vibhangavagga",
+    "name": "Cūḷakammavibhaṅgasutta",
+    "nameEn": "The Shorter Analysis of Deeds",
+    "acro": "MN 135"
+  },
+  {
+    "id": "mn136",
+    "parentId": "mn-vibhangavagga",
+    "name": "Mahākammavibhaṅgasutta",
+    "nameEn": "The Longer Analysis of Deeds",
+    "acro": "MN 136"
+  },
+  {
+    "id": "mn137",
+    "parentId": "mn-vibhangavagga",
+    "name": "Saḷāyatanavibhaṅgasutta",
+    "nameEn": "The Analysis of the Six Sense Fields",
+    "acro": "MN 137"
+  },
+  {
+    "id": "mn138",
+    "parentId": "mn-vibhangavagga",
+    "name": "Uddesavibhaṅgasutta",
+    "nameEn": "The Analysis of a Recitation Passage",
+    "acro": "MN 138"
+  },
+  {
+    "id": "mn139",
+    "parentId": "mn-vibhangavagga",
+    "name": "Araṇavibhaṅgasutta",
+    "nameEn": "The Analysis of Non-Conflict",
+    "acro": "MN 139"
+  },
+  {
+    "id": "mn140",
+    "parentId": "mn-vibhangavagga",
+    "name": "Dhātuvibhaṅgasutta",
+    "nameEn": "The Analysis of the Elements",
+    "acro": "MN 140"
+  },
+  {
+    "id": "mn141",
+    "parentId": "mn-vibhangavagga",
+    "name": "Saccavibhaṅgasutta",
+    "nameEn": "The Analysis of the Truths",
+    "acro": "MN 141"
+  },
+  {
+    "id": "mn142",
+    "parentId": "mn-vibhangavagga",
+    "name": "Dakkhiṇāvibhaṅgasutta",
+    "nameEn": "The Analysis of Religious Donations",
+    "acro": "MN 142"
+  },
+  {
+    "id": "mn-salayatanavagga",
+    "parentId": "mn-uparipannasa",
+    "name": "Saḷāyatanavagga",
+    "nameEn": "The Chapter on the Six Senses",
+    "acro": "MN 143-152"
+  },
+  {
+    "id": "mn143",
+    "parentId": "mn-salayatanavagga",
+    "name": "Anāthapiṇḍikovādasutta",
+    "nameEn": "Advice to Anāthapiṇḍika",
+    "acro": "MN 143"
+  },
+  {
+    "id": "mn144",
+    "parentId": "mn-salayatanavagga",
+    "name": "Channovādasutta",
+    "nameEn": "Advice to Channa",
+    "acro": "MN 144"
+  },
+  {
+    "id": "mn145",
+    "parentId": "mn-salayatanavagga",
+    "name": "Puṇṇovādasutta",
+    "nameEn": "Advice to Puṇṇa",
+    "acro": "MN 145"
+  },
+  {
+    "id": "mn146",
+    "parentId": "mn-salayatanavagga",
+    "name": "Nandakovādasutta",
+    "nameEn": "Advice from Nandaka",
+    "acro": "MN 146"
+  },
+  {
+    "id": "mn147",
+    "parentId": "mn-salayatanavagga",
+    "name": "Cūḷarāhulovādasutta",
+    "nameEn": "The Shorter Advice to Rāhula",
+    "acro": "MN 147"
+  },
+  {
+    "id": "mn148",
+    "parentId": "mn-salayatanavagga",
+    "name": "Chachakkasutta",
+    "nameEn": "Six By Six",
+    "acro": "MN 148"
+  },
+  {
+    "id": "mn149",
+    "parentId": "mn-salayatanavagga",
+    "name": "Mahāsaḷāyatanikasutta",
+    "nameEn": "The Great Discourse on the Six Sense Fields",
+    "acro": "MN 149"
+  },
+  {
+    "id": "mn150",
+    "parentId": "mn-salayatanavagga",
+    "name": "Nagaravindeyyasutta",
+    "nameEn": "With the People of Nagaravinda",
+    "acro": "MN 150"
+  },
+  {
+    "id": "mn151",
+    "parentId": "mn-salayatanavagga",
+    "name": "Piṇḍapātapārisuddhisutta",
+    "nameEn": "The Purification of Alms",
+    "acro": "MN 151"
+  },
+  {
+    "id": "mn152",
+    "parentId": "mn-salayatanavagga",
+    "name": "Indriyabhāvanāsutta",
+    "nameEn": "The Development of the Faculties",
+    "acro": "MN 152"
+  },
+  {
+    "id": "sn",
+    "parentId": "sutta",
+    "name": "Saṁyuttanikāya",
+    "nameEn": "Linked Discourses Collection ",
+    "acro": "SN"
+  },
+  {
+    "id": "sn-sagathavaggasamyutta",
+    "parentId": "sn",
+    "name": "Sagāthāvaggasaṁyutta",
+    "nameEn": "The Group of Linked Discourses With Verses ",
+    "acro": ""
+  },
+  {
+    "id": "sn1",
+    "parentId": "sn-sagathavaggasamyutta",
+    "name": "Devatāsaṁyutta",
+    "nameEn": "Linked Discourses With Deities ",
+    "acro": "SN 1"
+  },
+  {
+    "id": "sn1-nalavagga",
+    "parentId": "sn1",
+    "name": "Naḷavagga",
+    "nameEn": "The Chapter on a Reed ",
+    "acro": "SN 1.1-10"
+  },
+  {
+    "id": "sn1-nandanavagga",
+    "parentId": "sn1",
+    "name": "Nandanavagga",
+    "nameEn": "The Chapter on the Garden of Delight ",
+    "acro": "SN 1.11-20"
+  },
+  {
+    "id": "sn1-sattivagga",
+    "parentId": "sn1",
+    "name": "Sattivagga",
+    "nameEn": "The Chapter on a Sword ",
+    "acro": "SN 1.21-30"
+  },
+  {
+    "id": "sn1-satullapakayikavagga",
+    "parentId": "sn1",
+    "name": "Satullapakāyikavagga",
+    "nameEn": "The Chapter on the Satullapa Group ",
+    "acro": "SN 1.31-40"
+  },
+  {
+    "id": "sn1-adittavagga",
+    "parentId": "sn1",
+    "name": "Ādittavagga",
+    "nameEn": "The Chapter on Fire ",
+    "acro": "SN 1.41-50"
+  },
+  {
+    "id": "sn1-jaravagga",
+    "parentId": "sn1",
+    "name": "Jarāvagga",
+    "nameEn": "The Chapter on Old Age ",
+    "acro": "SN 1.51-60"
+  },
+  {
+    "id": "sn1-addhavagga",
+    "parentId": "sn1",
+    "name": "Addhavagga",
+    "nameEn": "The Chapter on Oppressed ",
+    "acro": "SN 1.61-70"
+  },
+  {
+    "id": "sn1-chetvavagga",
+    "parentId": "sn1",
+    "name": "Chetvāvagga",
+    "nameEn": "The Chapter on Incinerated ",
+    "acro": "SN 1.71-81"
+  },
+  {
+    "id": "sn2",
+    "parentId": "sn-sagathavaggasamyutta",
+    "name": "Devaputtasaṁyutta",
+    "nameEn": "Linked Discourses on Gods ",
+    "acro": "SN 2"
+  },
+  {
+    "id": "sn2-pathamavagga",
+    "parentId": "sn2",
+    "name": "Paṭhamavagga",
+    "nameEn": "Chapter One ",
+    "acro": "SN 2.1-10"
+  },
+  {
+    "id": "sn2-anathapindikavagga",
+    "parentId": "sn2",
+    "name": "Anāthapiṇḍikavagga",
+    "nameEn": "The Chapter with Anāthapiṇḍika ",
+    "acro": "SN 2.11-20"
+  },
+  {
+    "id": "sn2-nanatitthiyavagga",
+    "parentId": "sn2",
+    "name": "Nānātitthiyavagga",
+    "nameEn": "The Chapter on Various Sectarians ",
+    "acro": "SN 2.21-30"
+  },
+  {
+    "id": "sn3",
+    "parentId": "sn-sagathavaggasamyutta",
+    "name": "Kosalasaṁyutta",
+    "nameEn": "Linked Discourses With King Pasenadi of Kosala ",
+    "acro": "SN 3"
+  },
+  {
+    "id": "sn3-pathamavagga",
+    "parentId": "sn3",
+    "name": "Paṭhamavagga",
+    "nameEn": "Chapter One ",
+    "acro": "SN 3.1-10"
+  },
+  {
+    "id": "sn3-dutiyavagga",
+    "parentId": "sn3",
+    "name": "Dutiyavagga",
+    "nameEn": "Chapter Two ",
+    "acro": "SN 3.11-20"
+  },
+  {
+    "id": "sn3-tatiyavagga",
+    "parentId": "sn3",
+    "name": "Tatiyavagga",
+    "nameEn": "Chapter Three ",
+    "acro": "SN 3.21-25"
+  },
+  {
+    "id": "sn4",
+    "parentId": "sn-sagathavaggasamyutta",
+    "name": "Mārasaṁyutta",
+    "nameEn": "Linked Discourses With Māra ",
+    "acro": "SN 4"
+  },
+  {
+    "id": "sn4-pathamavagga",
+    "parentId": "sn4",
+    "name": "Paṭhamavagga",
+    "nameEn": "Chapter One ",
+    "acro": "SN 4.1-10"
+  },
+  {
+    "id": "sn4-dutiyavagga",
+    "parentId": "sn4",
+    "name": "Dutiyavagga",
+    "nameEn": "Chapter Two ",
+    "acro": "SN 4.11-20"
+  },
+  {
+    "id": "sn4-tatiyavagga",
+    "parentId": "sn4",
+    "name": "Tatiyavagga",
+    "nameEn": "Chapter Three ",
+    "acro": "SN 4.21-25"
+  },
+  {
+    "id": "sn5",
+    "parentId": "sn-sagathavaggasamyutta",
+    "name": "Bhikkhunīsaṁyutta",
+    "nameEn": "Linked Discourses With Nuns ",
+    "acro": "SN 5"
+  },
+  {
+    "id": "sn5-bhikkhunivagga",
+    "parentId": "sn5",
+    "name": "Bhikkhunīvagga",
+    "nameEn": "The Chapter on Nuns ",
+    "acro": "SN 5.1-10"
+  },
+  {
+    "id": "sn6",
+    "parentId": "sn-sagathavaggasamyutta",
+    "name": "Brahmasaṁyutta",
+    "nameEn": "Linked Discourses With Brahmā Gods ",
+    "acro": "SN 6"
+  },
+  {
+    "id": "sn6-pathamavagga",
+    "parentId": "sn6",
+    "name": "Paṭhamavagga",
+    "nameEn": "Chapter One ",
+    "acro": "SN 6.1-10"
+  },
+  {
+    "id": "sn6-dutiyavagga",
+    "parentId": "sn6",
+    "name": "Dutiyavagga",
+    "nameEn": "Chapter Two ",
+    "acro": "SN 6.11-15"
+  },
+  {
+    "id": "sn7",
+    "parentId": "sn-sagathavaggasamyutta",
+    "name": "Brāhmaṇasaṁyutta",
+    "nameEn": "Linked Discourses with Brahmins ",
+    "acro": "SN 7"
+  },
+  {
+    "id": "sn7-arahantavagga",
+    "parentId": "sn7",
+    "name": "Arahantavagga",
+    "nameEn": "The Chapter on the Perfected Ones ",
+    "acro": "SN 7.1-10"
+  },
+  {
+    "id": "sn7-upasakavagga",
+    "parentId": "sn7",
+    "name": "Upāsakavagga",
+    "nameEn": "The Chapter on a Lay Follower ",
+    "acro": "SN 7.11-22"
+  },
+  {
+    "id": "sn8",
+    "parentId": "sn-sagathavaggasamyutta",
+    "name": "Vaṅgīsasaṁyutta",
+    "nameEn": "Linked Discourses With Vaṅgīsa ",
+    "acro": "SN 8"
+  },
+  {
+    "id": "sn8-vangisavagga",
+    "parentId": "sn8",
+    "name": "Vaṅgīsavagga",
+    "nameEn": "The Chapter with the Poet Vaṅgīsa ",
+    "acro": "SN 8.1-12"
+  },
+  {
+    "id": "sn9",
+    "parentId": "sn-sagathavaggasamyutta",
+    "name": "Vanasaṁyutta",
+    "nameEn": "Linked Discourses in the Woods ",
+    "acro": "SN 9"
+  },
+  {
+    "id": "sn9-vanavagga",
+    "parentId": "sn9",
+    "name": "Vanavagga",
+    "nameEn": "The Chapter on In the Woods ",
+    "acro": "SN 9.1-14"
+  },
+  {
+    "id": "sn10",
+    "parentId": "sn-sagathavaggasamyutta",
+    "name": "Yakkhasaṁyutta",
+    "nameEn": "Linked Discourses with Spirits ",
+    "acro": "SN 10"
+  },
+  {
+    "id": "sn10-indakavagga",
+    "parentId": "sn10",
+    "name": "Indakavagga",
+    "nameEn": "The Chapter with Indaka ",
+    "acro": "SN 10.1-12"
+  },
+  {
+    "id": "sn11",
+    "parentId": "sn-sagathavaggasamyutta",
+    "name": "Sakkasaṁyutta",
+    "nameEn": "Linked Discourses with Sakka ",
+    "acro": "SN 11"
+  },
+  {
+    "id": "sn11-pathamavagga",
+    "parentId": "sn11",
+    "name": "Paṭhamavagga",
+    "nameEn": "Chapter One ",
+    "acro": "SN 11.1-10"
+  },
+  {
+    "id": "sn11-dutiyavagga",
+    "parentId": "sn11",
+    "name": "Dutiyavagga",
+    "nameEn": "Chapter Two ",
+    "acro": "SN 11.11-20"
+  },
+  {
+    "id": "sn11-tatiyavagga",
+    "parentId": "sn11",
+    "name": "Tatiyavagga",
+    "nameEn": "Chapter Three ",
+    "acro": "SN 11.21-25"
+  },
+  {
+    "id": "sn-nidanavaggasamyutta",
+    "parentId": "sn",
+    "name": "Nidānavaggasaṁyutta",
+    "nameEn": "The Group of Linked Discourses Beginning With Causation ",
+    "acro": ""
+  },
+  {
+    "id": "sn12",
+    "parentId": "sn-nidanavaggasamyutta",
+    "name": "Nidānasaṁyutta",
+    "nameEn": "Linked Discourses on Causation ",
+    "acro": "SN 12"
+  },
+  {
+    "id": "sn12-buddhavagga",
+    "parentId": "sn12",
+    "name": "Buddhavagga",
+    "nameEn": "The Chapter on the Buddhas ",
+    "acro": "SN 12.1-10"
+  },
+  {
+    "id": "sn12-aharavagga",
+    "parentId": "sn12",
+    "name": "Āhāravagga",
+    "nameEn": "The Chapter on Fuel ",
+    "acro": "SN 12.11-20"
+  },
+  {
+    "id": "sn12-dasabalavagga",
+    "parentId": "sn12",
+    "name": "Dasabalavagga",
+    "nameEn": "The Chapter on the Ten Powers ",
+    "acro": "SN 12.21-30"
+  },
+  {
+    "id": "sn12-kalarakhattiyavagga",
+    "parentId": "sn12",
+    "name": "Kaḷārakhattiyavagga",
+    "nameEn": "The Chapter with Kaḷāra the Aristocrat ",
+    "acro": "SN 12.31-40"
+  },
+  {
+    "id": "sn12-gahapativagga",
+    "parentId": "sn12",
+    "name": "Gahapativagga",
+    "nameEn": "The Chapter on Householders ",
+    "acro": "SN 12.41-50"
+  },
+  {
+    "id": "sn12-dukkhavagga",
+    "parentId": "sn12",
+    "name": "Dukkhavagga",
+    "nameEn": "The Chapter on Suffering ",
+    "acro": "SN 12.51-60"
+  },
+  {
+    "id": "sn12-mahavagga",
+    "parentId": "sn12",
+    "name": "Mahāvagga",
+    "nameEn": "The Great Chapter ",
+    "acro": "SN 12.61-70"
+  },
+  {
+    "id": "sn12-samanabrahmanavagga",
+    "parentId": "sn12",
+    "name": "Samaṇabrāhmaṇavagga",
+    "nameEn": "The Chapter on Ascetics and Brahmins ",
+    "acro": "SN 12.71-81"
+  },
+  {
+    "id": "sn12-antarapeyyala",
+    "parentId": "sn12",
+    "name": "Antarapeyyāla",
+    "nameEn": "Consecutive Repetitions ",
+    "acro": "SN 12.82-213",
+    "spec": "fontSN"
+  },
+  {
+    "id": "sn12-satthusuttadi",
+    "parentId": "sn12-antarapeyyala",
+    "name": "Satthusuttādi",
+    "nameEn": "The Teacher, etc. ",
+    "acro": "SN 12.82-92"
+  },
+  {
+    "id": "sn12-sikkhasuttadipeyyalaekadasaka",
+    "parentId": "sn12-antarapeyyala",
+    "name": "Sikkhāsuttādipeyyālaekādasaka",
+    "nameEn": "Sets of Eleven on Training, Etc. ",
+    "acro": "SN 12.93-213"
+  },
+  {
+    "id": "sn13",
+    "parentId": "sn-nidanavaggasamyutta",
+    "name": "Abhisamayasaṁyutta",
+    "nameEn": "Linked Discourses on Comprehension ",
+    "acro": "SN 13"
+  },
+  {
+    "id": "sn13-abhisamayavagga",
+    "parentId": "sn13",
+    "name": "Abhisamayavagga",
+    "nameEn": "The Chapter on Comprehension ",
+    "acro": "SN 13.1-11"
+  },
+  {
+    "id": "sn14",
+    "parentId": "sn-nidanavaggasamyutta",
+    "name": "Dhātusaṁyutta",
+    "nameEn": "Linked Discourses on the Elements ",
+    "acro": "SN 14"
+  },
+  {
+    "id": "sn14-nanattavagga",
+    "parentId": "sn14",
+    "name": "Nānattavagga",
+    "nameEn": "The Chapter on Diversity ",
+    "acro": "SN 14.1-10"
+  },
+  {
+    "id": "sn14-dutiyavagga",
+    "parentId": "sn14",
+    "name": "Dutiyavagga",
+    "nameEn": "Chapter Two ",
+    "acro": "SN 14.11-22"
+  },
+  {
+    "id": "sn14-kammapathavagga",
+    "parentId": "sn14",
+    "name": "Kammapathavagga",
+    "nameEn": "The Chapter on Ways of Performing Deeds ",
+    "acro": "SN 14.23-29"
+  },
+  {
+    "id": "sn14-catutthavagga",
+    "parentId": "sn14",
+    "name": "Catutthavagga",
+    "nameEn": "Chapter Four ",
+    "acro": "SN 14.30-39"
+  },
+  {
+    "id": "sn15",
+    "parentId": "sn-nidanavaggasamyutta",
+    "name": "Anamataggasaṁyutta",
+    "nameEn": "Linked Discourses on the Unknowable Beginning ",
+    "acro": "SN 15"
+  },
+  {
+    "id": "sn15-pathamavagga",
+    "parentId": "sn15",
+    "name": "Paṭhamavagga",
+    "nameEn": "Chapter One ",
+    "acro": "SN 15.1-10"
+  },
+  {
+    "id": "sn15-dutiyavagga",
+    "parentId": "sn15",
+    "name": "Dutiyavagga",
+    "nameEn": "Chapter Two ",
+    "acro": "SN 15.11-20"
+  },
+  {
+    "id": "sn16",
+    "parentId": "sn-nidanavaggasamyutta",
+    "name": "Kassapasaṁyutta",
+    "nameEn": "Linked Discourses with Kassapa ",
+    "acro": "SN 16"
+  },
+  {
+    "id": "sn16-kassapavagga",
+    "parentId": "sn16",
+    "name": "Kassapavagga",
+    "nameEn": "The Chapter with Kassapa ",
+    "acro": "SN 16.1-13"
+  },
+  {
+    "id": "sn17",
+    "parentId": "sn-nidanavaggasamyutta",
+    "name": "Lābhasakkārasaṁyutta",
+    "nameEn": "Linked Discourses on Gains and Honor ",
+    "acro": "SN 17"
+  },
+  {
+    "id": "sn17-pathamavagga",
+    "parentId": "sn17",
+    "name": "Paṭhamavagga",
+    "nameEn": "Chapter One ",
+    "acro": "SN 17.1-10"
+  },
+  {
+    "id": "sn17-dutiyavagga",
+    "parentId": "sn17",
+    "name": "Dutiyavagga",
+    "nameEn": "Chapter Two ",
+    "acro": "SN 17.11-20"
+  },
+  {
+    "id": "sn17-tatiyavagga",
+    "parentId": "sn17",
+    "name": "Tatiyavagga",
+    "nameEn": "Chapter Three ",
+    "acro": "SN 17.21-30"
+  },
+  {
+    "id": "sn17-catutthavagga",
+    "parentId": "sn17",
+    "name": "Catutthavagga",
+    "nameEn": "Chapter Four ",
+    "acro": "SN 17.31-43"
+  },
+  {
+    "id": "sn18",
+    "parentId": "sn-nidanavaggasamyutta",
+    "name": "Rāhulasaṁyutta",
+    "nameEn": "Linked Discourses with Rāhula ",
+    "acro": "SN 18"
+  },
+  {
+    "id": "sn18-pathamavagga",
+    "parentId": "sn18",
+    "name": "Paṭhamavagga",
+    "nameEn": "Chapter One ",
+    "acro": "SN 18.1-10"
+  },
+  {
+    "id": "sn18-dutiyavagga",
+    "parentId": "sn18",
+    "name": "Dutiyavagga",
+    "nameEn": "Chapter Two ",
+    "acro": "SN 18.11-22"
+  },
+  {
+    "id": "sn19",
+    "parentId": "sn-nidanavaggasamyutta",
+    "name": "Lakkhaṇasaṁyutta",
+    "nameEn": "Linked Discourses with Lakkhaṇa ",
+    "acro": "SN 19"
+  },
+  {
+    "id": "sn19-pathamavagga",
+    "parentId": "sn19",
+    "name": "Paṭhamavagga",
+    "nameEn": "Chapter One ",
+    "acro": "SN 19.1-10"
+  },
+  {
+    "id": "sn19-dutiyavagga",
+    "parentId": "sn19",
+    "name": "Dutiyavagga",
+    "nameEn": "Chapter Two ",
+    "acro": "SN 19.11-21"
+  },
+  {
+    "id": "sn20",
+    "parentId": "sn-nidanavaggasamyutta",
+    "name": "Opammasaṁyutta",
+    "nameEn": "Linked Discourses with Similes ",
+    "acro": "SN 20"
+  },
+  {
+    "id": "sn20-opammavagga",
+    "parentId": "sn20",
+    "name": "Opammavagga",
+    "nameEn": "The Chapter on the Similes ",
+    "acro": "SN 20.1-12"
+  },
+  {
+    "id": "sn21",
+    "parentId": "sn-nidanavaggasamyutta",
+    "name": "Bhikkhusaṁyutta",
+    "nameEn": "Linked Discourses with Monks ",
+    "acro": "SN 21"
+  },
+  {
+    "id": "sn21-bhikkhuvagga",
+    "parentId": "sn21",
+    "name": "Bhikkhuvagga",
+    "nameEn": "The Chapter on Monks ",
+    "acro": "SN 21.1-12"
+  },
+  {
+    "id": "sn-khandhavaggasamyutta",
+    "parentId": "sn",
+    "name": "Khandhavaggasaṁyutta",
+    "nameEn": "The Group of Linked Discourses Beginning With the Aggregates ",
+    "acro": ""
+  },
+  {
+    "id": "sn22",
+    "parentId": "sn-khandhavaggasamyutta",
+    "name": "Khandhasaṁyutta",
+    "nameEn": "Linked Discourses on the Aggregates ",
+    "acro": "SN 22"
+  },
+  {
+    "id": "sn22-mulapannasaka",
+    "parentId": "sn22",
+    "name": "Mūlapaṇṇāsaka",
+    "nameEn": "The First Fifty ",
+    "acro": "",
+    "spec": "fontSN"
+  },
+  {
+    "id": "sn22-nakulapituvagga",
+    "parentId": "sn22-mulapannasaka",
+    "name": "Nakulapituvagga",
+    "nameEn": "The Chapter on Nakula's Father ",
+    "acro": "SN 22.1-11"
+  },
+  {
+    "id": "sn22-aniccavagga",
+    "parentId": "sn22-mulapannasaka",
+    "name": "Aniccavagga",
+    "nameEn": "The Chapter on Impermanence ",
+    "acro": "SN 22.12-21"
+  },
+  {
+    "id": "sn22-bharavagga",
+    "parentId": "sn22-mulapannasaka",
+    "name": "Bhāravagga",
+    "nameEn": "The Chapter on the Burden ",
+    "acro": "SN 22.22-32"
+  },
+  {
+    "id": "sn22-natumhakavagga",
+    "parentId": "sn22-mulapannasaka",
+    "name": "Natumhākavagga",
+    "nameEn": "The Chapter on Not Yours ",
+    "acro": "SN 22.33-42"
+  },
+  {
+    "id": "sn22-attadipavagga",
+    "parentId": "sn22-mulapannasaka",
+    "name": "Attadīpavagga",
+    "nameEn": "The Chapter on Be Your Own Island ",
+    "acro": "SN 22.43-52"
+  },
+  {
+    "id": "sn22-majjhimapannasaka",
+    "parentId": "sn22",
+    "name": "Majjhimapaṇṇāsaka",
+    "nameEn": "The Middle Fifty ",
+    "acro": "",
+    "spec": "fontSN"
+  },
+  {
+    "id": "sn22-upayavagga",
+    "parentId": "sn22-majjhimapannasaka",
+    "name": "Upayavagga",
+    "nameEn": "The Chapter on Involvement ",
+    "acro": "SN 22.53-62"
+  },
+  {
+    "id": "sn22-arahantavagga",
+    "parentId": "sn22-majjhimapannasaka",
+    "name": "Arahantavagga",
+    "nameEn": "The Chapter on the Perfected Ones ",
+    "acro": "SN 22.63-72"
+  },
+  {
+    "id": "sn22-khajjaniyavagga",
+    "parentId": "sn22-majjhimapannasaka",
+    "name": "Khajjanīyavagga",
+    "nameEn": "The Chapter on Itchy ",
+    "acro": "SN 22.73-82"
+  },
+  {
+    "id": "sn22-theravagga",
+    "parentId": "sn22-majjhimapannasaka",
+    "name": "Theravagga",
+    "nameEn": "The Chapter on Senior Mendicants ",
+    "acro": "SN 22.83-92"
+  },
+  {
+    "id": "sn22-pupphavagga",
+    "parentId": "sn22-majjhimapannasaka",
+    "name": "Pupphavagga",
+    "nameEn": "The Chapter on Flowers ",
+    "acro": "SN 22.93-102"
+  },
+  {
+    "id": "sn22-uparipannasaka",
+    "parentId": "sn22",
+    "name": "Uparipaṇṇāsaka",
+    "nameEn": "The Final Fifty ",
+    "acro": "",
+    "spec": "fontSN"
+  },
+  {
+    "id": "sn22-antavagga",
+    "parentId": "sn22-uparipannasaka",
+    "name": "Antavagga",
+    "nameEn": "The Chapter on Sides ",
+    "acro": "SN 22.103-112"
+  },
+  {
+    "id": "sn22-dhammakathikavagga",
+    "parentId": "sn22-uparipannasaka",
+    "name": "Dhammakathikavagga",
+    "nameEn": "The Chapter on a Dhamma Speaker ",
+    "acro": "SN 22.113-125"
+  },
+  {
+    "id": "sn22-avijjavagga",
+    "parentId": "sn22-uparipannasaka",
+    "name": "Avijjāvagga",
+    "nameEn": "The Chapter on Ignorance ",
+    "acro": "SN 22.126-135"
+  },
+  {
+    "id": "sn22-kukkulavagga",
+    "parentId": "sn22-uparipannasaka",
+    "name": "Kukkuḷavagga",
+    "nameEn": "The Chapter on Burning Chaff ",
+    "acro": "SN 22.136-149"
+  },
+  {
+    "id": "sn22-ditthivagga",
+    "parentId": "sn22-uparipannasaka",
+    "name": "Diṭṭhivagga",
+    "nameEn": "The Chapter on Views ",
+    "acro": "SN 22.150-159"
+  },
+  {
+    "id": "sn23",
+    "parentId": "sn-khandhavaggasamyutta",
+    "name": "Rādhasaṁyutta",
+    "nameEn": "Linked Discourses with Rādha ",
+    "acro": "SN 23"
+  },
+  {
+    "id": "sn23-pathamamaravagga",
+    "parentId": "sn23",
+    "name": "Paṭhamamāravagga",
+    "nameEn": "First Chapter About Māra ",
+    "acro": "SN 23.1-10"
+  },
+  {
+    "id": "sn23-dutiyamaravagga",
+    "parentId": "sn23",
+    "name": "Dutiyamāravagga",
+    "nameEn": "Second Chapter About Māra ",
+    "acro": "SN 23.11-22"
+  },
+  {
+    "id": "sn23-ayacanavagga",
+    "parentId": "sn23",
+    "name": "Āyācanavagga",
+    "nameEn": "The Chapter on Aspiration ",
+    "acro": "SN 23.23-34"
+  },
+  {
+    "id": "sn23-upanisinnavagga",
+    "parentId": "sn23",
+    "name": "Upanisinnavagga",
+    "nameEn": "The Chapter on Sitting Close ",
+    "acro": "SN 23.35-46"
+  },
+  {
+    "id": "sn24",
+    "parentId": "sn-khandhavaggasamyutta",
+    "name": "Diṭṭhisaṁyutta",
+    "nameEn": "Linked Discourses on Views ",
+    "acro": "SN 24"
+  },
+  {
+    "id": "sn24-sotapattivagga",
+    "parentId": "sn24",
+    "name": "Sotāpattivagga",
+    "nameEn": "The Chapter on Stream-Entry ",
+    "acro": "SN 24.1-18"
+  },
+  {
+    "id": "sn24-dutiyagamanavagga",
+    "parentId": "sn24",
+    "name": "Dutiyagamanavagga",
+    "nameEn": "The Chapter on the Second Round ",
+    "acro": "SN 24.19-44"
+  },
+  {
+    "id": "sn24-tatiyagamanavagga",
+    "parentId": "sn24",
+    "name": "Tatiyagamanavagga",
+    "nameEn": "The Chapter on the Third Round ",
+    "acro": "SN 24.45-70"
+  },
+  {
+    "id": "sn24-catutthagamanavagga",
+    "parentId": "sn24",
+    "name": "Catutthagamanavagga",
+    "nameEn": "The Chapter on the Fourth Round ",
+    "acro": "SN 24.71-96"
+  },
+  {
+    "id": "sn25",
+    "parentId": "sn-khandhavaggasamyutta",
+    "name": "Okkantasaṁyutta",
+    "nameEn": "Linked Discourses on Arrival at the Truth ",
+    "acro": "SN 25"
+  },
+  {
+    "id": "sn25-cakkhuvagga",
+    "parentId": "sn25",
+    "name": "Cakkhuvagga",
+    "nameEn": "The Chapter on the Eye ",
+    "acro": "SN 25.1-10"
+  },
+  {
+    "id": "sn26",
+    "parentId": "sn-khandhavaggasamyutta",
+    "name": "Uppādasaṁyutta",
+    "nameEn": "Linked Discourses on Arising ",
+    "acro": "SN 26"
+  },
+  {
+    "id": "sn26-uppadavagga",
+    "parentId": "sn26",
+    "name": "Uppādavagga",
+    "nameEn": "The Chapter on Arising ",
+    "acro": "SN 26.1-10"
+  },
+  {
+    "id": "sn27",
+    "parentId": "sn-khandhavaggasamyutta",
+    "name": "Kilesasaṁyutta",
+    "nameEn": "Linked Discourses on Corruptions ",
+    "acro": "SN 27"
+  },
+  {
+    "id": "sn27-kilesavagga",
+    "parentId": "sn27",
+    "name": "Kilesavagga",
+    "nameEn": "The Chapter on Corruptions ",
+    "acro": "SN 27.1-10"
+  },
+  {
+    "id": "sn28",
+    "parentId": "sn-khandhavaggasamyutta",
+    "name": "Sāriputtasaṁyutta",
+    "nameEn": "Linked Discourses with Sāriputta ",
+    "acro": "SN 28"
+  },
+  {
+    "id": "sn28-sariputtavagga",
+    "parentId": "sn28",
+    "name": "Sāriputtavagga",
+    "nameEn": "The Chapter with Sāriputta ",
+    "acro": "SN 28.1-10"
+  },
+  {
+    "id": "sn29",
+    "parentId": "sn-khandhavaggasamyutta",
+    "name": "Nāgasaṁyutta",
+    "nameEn": "Linked Discourses on Dragons ",
+    "acro": "SN 29"
+  },
+  {
+    "id": "sn29-nagavagga",
+    "parentId": "sn29",
+    "name": "Nāgavagga",
+    "nameEn": "The Chapter on Dragons ",
+    "acro": "SN 29.1-50"
+  },
+  {
+    "id": "sn30",
+    "parentId": "sn-khandhavaggasamyutta",
+    "name": "Supaṇṇasaṁyutta",
+    "nameEn": "Linked Discourses on Phoenixes ",
+    "acro": "SN 30"
+  },
+  {
+    "id": "sn30-supannavagga",
+    "parentId": "sn30",
+    "name": "Supaṇṇavagga",
+    "nameEn": "The Chapter on Phoenixes ",
+    "acro": "SN 30.1-46"
+  },
+  {
+    "id": "sn31",
+    "parentId": "sn-khandhavaggasamyutta",
+    "name": "Gandhabbakāyasaṁyutta",
+    "nameEn": "Linked Discourses on Fairies ",
+    "acro": "SN 31"
+  },
+  {
+    "id": "sn31-gandhabbavagga",
+    "parentId": "sn31",
+    "name": "Gandhabbavagga",
+    "nameEn": "The Chapter on Fairies ",
+    "acro": "SN 31.1-112"
+  },
+  {
+    "id": "sn32",
+    "parentId": "sn-khandhavaggasamyutta",
+    "name": "Valāhakasaṁyutta",
+    "nameEn": "Linked Discourses on Cloud Gods ",
+    "acro": "SN 32"
+  },
+  {
+    "id": "sn32-valahakavagga",
+    "parentId": "sn32",
+    "name": "Valāhakavagga",
+    "nameEn": "The Chapter on Gods of the Clouds ",
+    "acro": "SN 32.1-57"
+  },
+  {
+    "id": "sn33",
+    "parentId": "sn-khandhavaggasamyutta",
+    "name": "Vacchagottasaṁyutta",
+    "nameEn": "Linked Discourses with Vacchagotta ",
+    "acro": "SN 33"
+  },
+  {
+    "id": "sn33-vacchagottavagga",
+    "parentId": "sn33",
+    "name": "Vacchagottavagga",
+    "nameEn": "The Chapter with Vacchagotta ",
+    "acro": "SN 33.1-55"
+  },
+  {
+    "id": "sn34",
+    "parentId": "sn-khandhavaggasamyutta",
+    "name": "Jhānasaṁyutta",
+    "nameEn": "Linked Discourses on Absorption ",
+    "acro": "SN 34"
+  },
+  {
+    "id": "sn34-jhanavagga",
+    "parentId": "sn34",
+    "name": "Jhānavagga",
+    "nameEn": "The Chapter on Absorption ",
+    "acro": "SN 34.1-55"
+  },
+  {
+    "id": "sn-salayatanavaggasamyutta",
+    "parentId": "sn",
+    "name": "Saḷāyatanavaggasaṁyutta",
+    "nameEn": "The Group of Linked Discourses Beginning With the Six Sense Fields ",
+    "acro": ""
+  },
+  {
+    "id": "sn35",
+    "parentId": "sn-salayatanavaggasamyutta",
+    "name": "Saḷāyatanasaṁyutta",
+    "nameEn": "Linked Discourses on the Six Sense Fields ",
+    "acro": "SN 35"
+  },
+  {
+    "id": "sn35-pathamapannasaka",
+    "parentId": "sn35",
+    "name": "Paṭhamapaṇṇāsaka",
+    "nameEn": "The First Fifty ",
+    "acro": "",
+    "spec": "fontSN"
+  },
+  {
+    "id": "sn35-aniccavagga",
+    "parentId": "sn35-pathamapannasaka",
+    "name": "Aniccavagga",
+    "nameEn": "The Chapter on  Impermanence ",
+    "acro": "SN 35.1-12"
+  },
+  {
+    "id": "sn35-yamakavagga",
+    "parentId": "sn35-pathamapannasaka",
+    "name": "Yamakavagga",
+    "nameEn": "The Chapter on Pairs ",
+    "acro": "SN 35.13-22"
+  },
+  {
+    "id": "sn35-sabbavagga",
+    "parentId": "sn35-pathamapannasaka",
+    "name": "Sabbavagga",
+    "nameEn": "The Chapter on the All ",
+    "acro": "SN 35.23-32"
+  },
+  {
+    "id": "sn35-jatidhammavagga",
+    "parentId": "sn35-pathamapannasaka",
+    "name": "Jātidhammavagga",
+    "nameEn": "The Chapter on Liable to Be Reborn ",
+    "acro": "SN 35.33-42"
+  },
+  {
+    "id": "sn35-sabbaaniccavagga",
+    "parentId": "sn35-pathamapannasaka",
+    "name": "Sabbaaniccavagga",
+    "nameEn": "The Chapter on All is Impermanent ",
+    "acro": "SN 35.43-52"
+  },
+  {
+    "id": "sn35-dutiyapannasaka",
+    "parentId": "sn35",
+    "name": "Dutiyapaṇṇāsaka",
+    "nameEn": "The Second Fifty ",
+    "acro": "",
+    "spec": "fontSN"
+  },
+  {
+    "id": "sn35-avijjavagga",
+    "parentId": "sn35-dutiyapannasaka",
+    "name": "Avijjāvagga",
+    "nameEn": "The Chapter on Ignorance ",
+    "acro": "SN 35.53-62"
+  },
+  {
+    "id": "sn35-migajalavagga",
+    "parentId": "sn35-dutiyapannasaka",
+    "name": "Migajālavagga",
+    "nameEn": "The Chapter with Migajāla ",
+    "acro": "SN 35.63-73"
+  },
+  {
+    "id": "sn35-gilanavagga",
+    "parentId": "sn35-dutiyapannasaka",
+    "name": "Gilānavagga",
+    "nameEn": "The Chapter on Sick ",
+    "acro": "SN 35.74-83"
+  },
+  {
+    "id": "sn35-channavagga",
+    "parentId": "sn35-dutiyapannasaka",
+    "name": "Channavagga",
+    "nameEn": "The Chapter with Channa ",
+    "acro": "SN 35.84-93"
+  },
+  {
+    "id": "sn35-salavagga",
+    "parentId": "sn35-dutiyapannasaka",
+    "name": "Saḷavagga",
+    "nameEn": "The Chapter on the Sixes ",
+    "acro": "SN 35.94-103"
+  },
+  {
+    "id": "sn35-tatiyapannasaka",
+    "parentId": "sn35",
+    "name": "Tatiyapaṇṇāsaka",
+    "nameEn": "The Third Fifty ",
+    "acro": "",
+    "spec": "fontSN"
+  },
+  {
+    "id": "sn35-yogakkhemivagga",
+    "parentId": "sn35-tatiyapannasaka",
+    "name": "Yogakkhemivagga",
+    "nameEn": "The Chapter on Sanctuary ",
+    "acro": "SN 35.104-113"
+  },
+  {
+    "id": "sn35-lokakamagunavagga",
+    "parentId": "sn35-tatiyapannasaka",
+    "name": "Lokakāmaguṇavagga",
+    "nameEn": "The Chapter on the World and the Kinds of Sensual Stimulation ",
+    "acro": "SN 35.114-123"
+  },
+  {
+    "id": "sn35-gahapativagga",
+    "parentId": "sn35-tatiyapannasaka",
+    "name": "Gahapativagga",
+    "nameEn": "The Chapter on Householders ",
+    "acro": "SN 35.124-133"
+  },
+  {
+    "id": "sn35-devadahavagga",
+    "parentId": "sn35-tatiyapannasaka",
+    "name": "Devadahavagga",
+    "nameEn": "The Chapter at Devadaha ",
+    "acro": "SN 35.134-145"
+  },
+  {
+    "id": "sn35-navapuranavagga",
+    "parentId": "sn35-tatiyapannasaka",
+    "name": "Navapurāṇavagga",
+    "nameEn": "The Chapter on the Old and the New ",
+    "acro": "SN 35.146-155"
+  },
+  {
+    "id": "sn35-catutthapannasaka",
+    "parentId": "sn35",
+    "name": "Catutthapaṇṇāsaka",
+    "nameEn": "The Fourth Fifty ",
+    "acro": "",
+    "spec": "fontSN"
+  },
+  {
+    "id": "sn35-nandikkhayavagga",
+    "parentId": "sn35-catutthapannasaka",
+    "name": "Nandikkhayavagga",
+    "nameEn": "The Chapter on the End of Relishing ",
+    "acro": "SN 35.156-167"
+  },
+  {
+    "id": "sn35-satthipeyyalavagga",
+    "parentId": "sn35-catutthapannasaka",
+    "name": "Saṭṭhipeyyālavagga",
+    "nameEn": "The Chapter on Sixty Abbreviated Texts ",
+    "acro": "SN 35.168-227"
+  },
+  {
+    "id": "sn35-samuddavagga",
+    "parentId": "sn35-catutthapannasaka",
+    "name": "Samuddavagga",
+    "nameEn": "The Chapter on the Ocean ",
+    "acro": "SN 35.228-237"
+  },
+  {
+    "id": "sn35-asivisavagga",
+    "parentId": "sn35-catutthapannasaka",
+    "name": "Āsīvisavagga",
+    "nameEn": "The Chapter on the Simile of the Vipers ",
+    "acro": "SN 35.238-248"
+  },
+  {
+    "id": "sn36",
+    "parentId": "sn-salayatanavaggasamyutta",
+    "name": "Vedanāsaṁyutta",
+    "nameEn": "Linked Discourses on Feelings ",
+    "acro": "SN 36"
+  },
+  {
+    "id": "sn36-sagathavagga",
+    "parentId": "sn36",
+    "name": "Sagāthāvagga",
+    "nameEn": "The Chapter with Verses ",
+    "acro": "SN 36.1-10"
+  },
+  {
+    "id": "sn36-rahogatavagga",
+    "parentId": "sn36",
+    "name": "Rahogatavagga",
+    "nameEn": "The Chapter on In Private ",
+    "acro": "SN 36.11-20"
+  },
+  {
+    "id": "sn36-atthasatapariyayavagga",
+    "parentId": "sn36",
+    "name": "Aṭṭhasatapariyāyavagga",
+    "nameEn": "The Chapter on the Explanation of the Hundred and Eight ",
+    "acro": "SN 36.21-31"
+  },
+  {
+    "id": "sn37",
+    "parentId": "sn-salayatanavaggasamyutta",
+    "name": "Mātugāmasaṁyutta",
+    "nameEn": "Linked Discourses on Females ",
+    "acro": "SN 37"
+  },
+  {
+    "id": "sn37-pathamapeyyalavagga",
+    "parentId": "sn37",
+    "name": "Paṭhamapeyyālavagga",
+    "nameEn": "First Chapter of Abbreviated Texts ",
+    "acro": "SN 37.1-14"
+  },
+  {
+    "id": "sn37-dutiyapeyyalavagga",
+    "parentId": "sn37",
+    "name": "Dutiyapeyyālavagga",
+    "nameEn": "Second Chapter of Abbreviated Texts ",
+    "acro": "SN 37.15-24"
+  },
+  {
+    "id": "sn37-balavagga",
+    "parentId": "sn37",
+    "name": "Balavagga",
+    "nameEn": "The Chapter on Powers ",
+    "acro": "SN 37.25-34"
+  },
+  {
+    "id": "sn38",
+    "parentId": "sn-salayatanavaggasamyutta",
+    "name": "Jambukhādakasaṁyutta",
+    "nameEn": "Linked Discourses with Jambukhādaka ",
+    "acro": "SN 38"
+  },
+  {
+    "id": "sn38-jambukhadakavagga",
+    "parentId": "sn38",
+    "name": "Jambukhādakavagga",
+    "nameEn": "The Chapter with Jambukhādaka ",
+    "acro": "SN 38.1-16"
+  },
+  {
+    "id": "sn39",
+    "parentId": "sn-salayatanavaggasamyutta",
+    "name": "Sāmaṇḍakasaṁyutta",
+    "nameEn": "Linked Discourses with Sāmaṇḍaka ",
+    "acro": "SN 39"
+  },
+  {
+    "id": "sn39-samandakavagga",
+    "parentId": "sn39",
+    "name": "Sāmaṇḍakavagga",
+    "nameEn": "The Chapter with Sāmaṇḍaka ",
+    "acro": "SN 39.1-16"
+  },
+  {
+    "id": "sn40",
+    "parentId": "sn-salayatanavaggasamyutta",
+    "name": "Moggallānasaṁyutta",
+    "nameEn": "Linked Discourses with Moggallāna ",
+    "acro": "SN 40"
+  },
+  {
+    "id": "sn40-moggallanavagga",
+    "parentId": "sn40",
+    "name": "Moggallānavagga",
+    "nameEn": "The Chapter with Moggallāna ",
+    "acro": "SN 40.1-11"
+  },
+  {
+    "id": "sn41",
+    "parentId": "sn-salayatanavaggasamyutta",
+    "name": "Cittasaṁyutta",
+    "nameEn": "Linked Discourses with Citta the Householder ",
+    "acro": "SN 41"
+  },
+  {
+    "id": "sn41-cittavagga",
+    "parentId": "sn41",
+    "name": "Cittavagga",
+    "nameEn": "The Chapter with Citta ",
+    "acro": "SN 41.1-10"
+  },
+  {
+    "id": "sn42",
+    "parentId": "sn-salayatanavaggasamyutta",
+    "name": "Gāmaṇisaṁyutta",
+    "nameEn": "Linked Discourses with Chiefs ",
+    "acro": "SN 42"
+  },
+  {
+    "id": "sn42-gamanivagga",
+    "parentId": "sn42",
+    "name": "Gāmaṇivagga",
+    "nameEn": "The Chapter on Chiefs ",
+    "acro": "SN 42.1-13"
+  },
+  {
+    "id": "sn43",
+    "parentId": "sn-salayatanavaggasamyutta",
+    "name": "Asaṅkhatasaṁyutta",
+    "nameEn": "Linked Discourses on the Unconditioned ",
+    "acro": "SN 43"
+  },
+  {
+    "id": "sn43-pathamavagga",
+    "parentId": "sn43",
+    "name": "Paṭhamavagga",
+    "nameEn": "Chapter One ",
+    "acro": "SN 43.1-11"
+  },
+  {
+    "id": "sn43-dutiyavagga",
+    "parentId": "sn43",
+    "name": "Dutiyavagga",
+    "nameEn": "Chapter Two ",
+    "acro": "SN 43.12-44"
+  },
+  {
+    "id": "sn44",
+    "parentId": "sn-salayatanavaggasamyutta",
+    "name": "Abyākatasaṁyutta",
+    "nameEn": "Linked Discourses on the Undeclared ",
+    "acro": "SN 44"
+  },
+  {
+    "id": "sn44-abyakatavagga",
+    "parentId": "sn44",
+    "name": "Abyākatavagga",
+    "nameEn": "The Chapter on the Undeclared Points ",
+    "acro": "SN 44.1-11"
+  },
+  {
+    "id": "sn-mahavaggasamyutta",
+    "parentId": "sn",
+    "name": "Mahāvaggasaṁyutta",
+    "nameEn": "The Group of Linked Discourses on the Path ",
+    "acro": ""
+  },
+  {
+    "id": "sn45",
+    "parentId": "sn-mahavaggasamyutta",
+    "name": "Maggasaṁyutta",
+    "nameEn": "Linked Discourses on the Eightfold Path ",
+    "acro": "SN 45"
+  },
+  {
+    "id": "sn45-avijjavagga",
+    "parentId": "sn45",
+    "name": "Avijjāvagga",
+    "nameEn": "The Chapter on Ignorance ",
+    "acro": "SN 45.1-10"
+  },
+  {
+    "id": "sn45-viharavagga",
+    "parentId": "sn45",
+    "name": "Vihāravagga",
+    "nameEn": "The Chapter on Meditation ",
+    "acro": "SN 45.11-20"
+  },
+  {
+    "id": "sn45-micchattavagga",
+    "parentId": "sn45",
+    "name": "Micchattavagga",
+    "nameEn": "The Chapter on the Wrong Way ",
+    "acro": "SN 45.21-30"
+  },
+  {
+    "id": "sn45-patipattivagga",
+    "parentId": "sn45",
+    "name": "Paṭipattivagga",
+    "nameEn": "The Chapter on Practice ",
+    "acro": "SN 45.31-40"
+  },
+  {
+    "id": "sn45-annatitthiyapeyyalavagga",
+    "parentId": "sn45",
+    "name": "Aññatitthiyapeyyālavagga",
+    "nameEn": "The Chapter of Abbreviated Texts on Followers of Other Paths ",
+    "acro": "SN 45.41-48"
+  },
+  {
+    "id": "sn45-suriyapeyyalavagga",
+    "parentId": "sn45",
+    "name": "Sūriyapeyyālavagga",
+    "nameEn": "The Chapter of Abbreviated Texts on the Sun ",
+    "acro": "SN 45.49-62"
+  },
+  {
+    "id": "sn45-ekadhammapeyyalavagga",
+    "parentId": "sn45",
+    "name": "Ekadhammapeyyālavagga",
+    "nameEn": "The Chapter of Abbreviated Texts on One Thing ",
+    "acro": "SN 45.63-76"
+  },
+  {
+    "id": "sn45-dutiyaekadhammapeyyalavagga",
+    "parentId": "sn45",
+    "name": "Dutiyaekadhammapeyyālavagga",
+    "nameEn": "The Chapter of Abbreviated Texts on One Thing ",
+    "acro": "SN 45.77-90"
+  },
+  {
+    "id": "sn45-gangapeyyalavagga",
+    "parentId": "sn45",
+    "name": "Gaṅgāpeyyālavagga",
+    "nameEn": "The Chapter of Abbreviated Texts on the Ganges ",
+    "acro": "SN 45.91-102"
+  },
+  {
+    "id": "sn45-dutiyagangapeyyalavagga",
+    "parentId": "sn45",
+    "name": "Dutiyagaṅgāpeyyālavagga",
+    "nameEn": "The Chapter of Abbreviated Texts on the Ganges ",
+    "acro": "SN 45.103-138"
+  },
+  {
+    "id": "sn45-appamadapeyyalavagga",
+    "parentId": "sn45",
+    "name": "Appamādapeyyālavagga",
+    "nameEn": "The Chapter of Abbreviated Texts on Diligence ",
+    "acro": "SN 45.139-148"
+  },
+  {
+    "id": "sn45-balakaraniyavagga",
+    "parentId": "sn45",
+    "name": "Balakaraṇīyavagga",
+    "nameEn": "The Chapter on Hard Work ",
+    "acro": "SN 45.149-160"
+  },
+  {
+    "id": "sn45-esanavagga",
+    "parentId": "sn45",
+    "name": "Esanāvagga",
+    "nameEn": "The Chapter on Searches ",
+    "acro": "SN 45.161-170"
+  },
+  {
+    "id": "sn45-oghavagga",
+    "parentId": "sn45",
+    "name": "Oghavagga",
+    "nameEn": "The Chapter on Floods ",
+    "acro": "SN 45.171-180"
+  },
+  {
+    "id": "sn46",
+    "parentId": "sn-mahavaggasamyutta",
+    "name": "Bojjhaṅgasaṁyutta",
+    "nameEn": "Linked Discourses on the Awakening Factors ",
+    "acro": "SN 46"
+  },
+  {
+    "id": "sn46-pabbatavagga",
+    "parentId": "sn46",
+    "name": "Pabbatavagga",
+    "nameEn": "The Chapter on Mountains ",
+    "acro": "SN 46.1-10"
+  },
+  {
+    "id": "sn46-gilanavagga",
+    "parentId": "sn46",
+    "name": "Gilānavagga",
+    "nameEn": "The Chapter on Sick ",
+    "acro": "SN 46.11-20"
+  },
+  {
+    "id": "sn46-udayivagga",
+    "parentId": "sn46",
+    "name": "Udāyivagga",
+    "nameEn": "The Chapter with Udāyī ",
+    "acro": "SN 46.21-30"
+  },
+  {
+    "id": "sn46-nivaranavagga",
+    "parentId": "sn46",
+    "name": "Nīvaraṇavagga",
+    "nameEn": "The Chapter on Hindrances ",
+    "acro": "SN 46.31-40"
+  },
+  {
+    "id": "sn46-cakkavattivagga",
+    "parentId": "sn46",
+    "name": "Cakkavattivagga",
+    "nameEn": "The Chapter on the Wheel-Turning Monarch ",
+    "acro": "SN 46.41-50"
+  },
+  {
+    "id": "sn46-sakacchavagga",
+    "parentId": "sn46",
+    "name": "Sākacchavagga",
+    "nameEn": "The Chapter on Discussion ",
+    "acro": "SN 46.51-56"
+  },
+  {
+    "id": "sn46-anapanavagga",
+    "parentId": "sn46",
+    "name": "Ānāpānavagga",
+    "nameEn": "The Chapter on Breathing ",
+    "acro": "SN 46.57-66"
+  },
+  {
+    "id": "sn46-nirodhavagga",
+    "parentId": "sn46",
+    "name": "Nirodhavagga",
+    "nameEn": "The Chapter on Cessation ",
+    "acro": "SN 46.67-76"
+  },
+  {
+    "id": "sn46-gangapeyyalavagga",
+    "parentId": "sn46",
+    "name": "Gaṅgāpeyyālavagga",
+    "nameEn": "The Chapter of Abbreviated Texts on the Ganges ",
+    "acro": "SN 46.77-88"
+  },
+  {
+    "id": "sn46-appamadavagga",
+    "parentId": "sn46",
+    "name": "Appamādavagga",
+    "nameEn": "The Chapter on Diligence ",
+    "acro": "SN 46.89-98"
+  },
+  {
+    "id": "sn46-balakaraniyavagga",
+    "parentId": "sn46",
+    "name": "Balakaraṇīyavagga",
+    "nameEn": "The Chapter on Hard Work ",
+    "acro": "SN 46.99-110"
+  },
+  {
+    "id": "sn46-esanavagga",
+    "parentId": "sn46",
+    "name": "Esanāvagga",
+    "nameEn": "The Chapter on Searches ",
+    "acro": "SN 46.111-120"
+  },
+  {
+    "id": "sn46-oghavagga",
+    "parentId": "sn46",
+    "name": "Oghavagga",
+    "nameEn": "The Chapter on Floods ",
+    "acro": "SN 46.121-130"
+  },
+  {
+    "id": "sn46-punagangapeyyalavagga",
+    "parentId": "sn46",
+    "name": "Punagaṅgāpeyyālavagga",
+    "nameEn": "Another Chapter of Abbreviated Texts on the Ganges ",
+    "acro": "SN 46.131-142"
+  },
+  {
+    "id": "sn46-punaappamadavagga",
+    "parentId": "sn46",
+    "name": "Punaappamādavagga",
+    "nameEn": "Another Chapter on Diligence ",
+    "acro": "SN 46.143-152"
+  },
+  {
+    "id": "sn46-punabalakaraniyavagga",
+    "parentId": "sn46",
+    "name": "Punabalakaraṇīyavagga",
+    "nameEn": "Another Chapter on Hard Work ",
+    "acro": "SN 46.153-164"
+  },
+  {
+    "id": "sn46-punaesanavagga",
+    "parentId": "sn46",
+    "name": "Punaesanāvagga",
+    "nameEn": "Another Chapter on Searches ",
+    "acro": "SN 46.165-174"
+  },
+  {
+    "id": "sn46-punaoghavagga",
+    "parentId": "sn46",
+    "name": "Punaoghavagga",
+    "nameEn": "Another Chapter on Floods ",
+    "acro": "SN 46.175-184"
+  },
+  {
+    "id": "sn47",
+    "parentId": "sn-mahavaggasamyutta",
+    "name": "Satipaṭṭhānasaṁyutta",
+    "nameEn": "Linked Discourses on Mindfulness Meditation ",
+    "acro": "SN 47"
+  },
+  {
+    "id": "sn47-ambapalivagga",
+    "parentId": "sn47",
+    "name": "Ambapālivagga",
+    "nameEn": "The Chapter on Ambapālī the Courtesan ",
+    "acro": "SN 47.1-10"
+  },
+  {
+    "id": "sn47-nalandavagga",
+    "parentId": "sn47",
+    "name": "Nālandavagga",
+    "nameEn": "The Chapter at Nālandā ",
+    "acro": "SN 47.11-20"
+  },
+  {
+    "id": "sn47-silatthitivagga",
+    "parentId": "sn47",
+    "name": "Sīlaṭṭhitivagga",
+    "nameEn": "The Chapter on Ethics and Duration ",
+    "acro": "SN 47.21-30"
+  },
+  {
+    "id": "sn47-ananussutavagga",
+    "parentId": "sn47",
+    "name": "Ananussutavagga",
+    "nameEn": "The Chapter on Not Learned From Anyone Else ",
+    "acro": "SN 47.31-40"
+  },
+  {
+    "id": "sn47-amatavagga",
+    "parentId": "sn47",
+    "name": "Amatavagga",
+    "nameEn": "The Chapter on the Deathless ",
+    "acro": "SN 47.41-50"
+  },
+  {
+    "id": "sn47-gangapeyyalavagga",
+    "parentId": "sn47",
+    "name": "Gaṅgāpeyyālavagga",
+    "nameEn": "The Chapter of Abbreviated Texts on the Ganges ",
+    "acro": "SN 47.51-62"
+  },
+  {
+    "id": "sn47-appamadavagga",
+    "parentId": "sn47",
+    "name": "Appamādavagga",
+    "nameEn": "The Chapter on Diligence ",
+    "acro": "SN 47.63-72"
+  },
+  {
+    "id": "sn47-balakaraniyavagga",
+    "parentId": "sn47",
+    "name": "Balakaraṇīyavagga",
+    "nameEn": "The Chapter on Hard Work ",
+    "acro": "SN 47.73-84"
+  },
+  {
+    "id": "sn47-esanavagga",
+    "parentId": "sn47",
+    "name": "Esanāvagga",
+    "nameEn": "The Chapter on Searches ",
+    "acro": "SN 47.85-94"
+  },
+  {
+    "id": "sn47-oghavagga",
+    "parentId": "sn47",
+    "name": "Oghavagga",
+    "nameEn": "The Chapter on Floods ",
+    "acro": "SN 47.95-104"
+  },
+  {
+    "id": "sn48",
+    "parentId": "sn-mahavaggasamyutta",
+    "name": "Indriyasaṁyutta",
+    "nameEn": "Linked Discourses on the Faculties ",
+    "acro": "SN 48"
+  },
+  {
+    "id": "sn48-suddhikavagga",
+    "parentId": "sn48",
+    "name": "Suddhikavagga",
+    "nameEn": "The Chapter on the Plain Version ",
+    "acro": "SN 48.1-10"
+  },
+  {
+    "id": "sn48-mudutaravagga",
+    "parentId": "sn48",
+    "name": "Mudutaravagga",
+    "nameEn": "The Chapter on Weaker ",
+    "acro": "SN 48.11-20"
+  },
+  {
+    "id": "sn48-chalindriyavagga",
+    "parentId": "sn48",
+    "name": "Chaḷindriyavagga",
+    "nameEn": "The Chapter on the Six Faculties ",
+    "acro": "SN 48.21-30"
+  },
+  {
+    "id": "sn48-sukhindriyavagga",
+    "parentId": "sn48",
+    "name": "Sukhindriyavagga",
+    "nameEn": "The Chapter on the Pleasure Faculty ",
+    "acro": "SN 48.31-40"
+  },
+  {
+    "id": "sn48-jaravagga",
+    "parentId": "sn48",
+    "name": "Jarāvagga",
+    "nameEn": "The Chapter on Old Age ",
+    "acro": "SN 48.41-50"
+  },
+  {
+    "id": "sn48-sukarakhatavagga",
+    "parentId": "sn48",
+    "name": "Sūkarakhatavagga",
+    "nameEn": "The Chapter on the Boar's Cave ",
+    "acro": "SN 48.51-60"
+  },
+  {
+    "id": "sn48-bodhipakkhiyavagga",
+    "parentId": "sn48",
+    "name": "Bodhipakkhiyavagga",
+    "nameEn": "The Chapter on Leading to Awakening ",
+    "acro": "SN 48.61-70"
+  },
+  {
+    "id": "sn48-gangapeyyalavagga",
+    "parentId": "sn48",
+    "name": "Gaṅgāpeyyālavagga",
+    "nameEn": "The Chapter of Abbreviated Texts on the Ganges ",
+    "acro": "SN 48.71-82"
+  },
+  {
+    "id": "sn48-appamadavagga",
+    "parentId": "sn48",
+    "name": "Appamādavagga",
+    "nameEn": "The Chapter on Diligence ",
+    "acro": "SN 48.83-92"
+  },
+  {
+    "id": "sn48-balakaraniyavagga",
+    "parentId": "sn48",
+    "name": "Balakaraṇīyavagga",
+    "nameEn": "The Chapter on Hard Work ",
+    "acro": "SN 48.93-104"
+  },
+  {
+    "id": "sn48-esanavagga",
+    "parentId": "sn48",
+    "name": "Esanāvagga",
+    "nameEn": "The Chapter on Searches ",
+    "acro": "SN 48.105-114"
+  },
+  {
+    "id": "sn48-oghavagga",
+    "parentId": "sn48",
+    "name": "Oghavagga",
+    "nameEn": "The Chapter on Floods ",
+    "acro": "SN 48.115-124"
+  },
+  {
+    "id": "sn48-punagangapeyyalavagga",
+    "parentId": "sn48",
+    "name": "Punagaṅgāpeyyālavagga",
+    "nameEn": "Another Chapter of Abbreviated Texts on the Ganges ",
+    "acro": "SN 48.125-136"
+  },
+  {
+    "id": "sn48-punaappamadavagga",
+    "parentId": "sn48",
+    "name": "Punaappamādavagga",
+    "nameEn": "Another Chapter on Diligence ",
+    "acro": "SN 48.137-146"
+  },
+  {
+    "id": "sn48-punabalakaraniyavagga",
+    "parentId": "sn48",
+    "name": "Punabalakaraṇīyavagga",
+    "nameEn": "Another Chapter on Hard Work ",
+    "acro": "SN 48.147-158"
+  },
+  {
+    "id": "sn48-punaesanavagga",
+    "parentId": "sn48",
+    "name": "Punaesanāvagga",
+    "nameEn": "Another Chapter on Searches ",
+    "acro": "SN 48.159-168"
+  },
+  {
+    "id": "sn48-punaoghavagga",
+    "parentId": "sn48",
+    "name": "Punaoghavagga",
+    "nameEn": "Another Chapter on Floods ",
+    "acro": "SN 48.169-178"
+  },
+  {
+    "id": "sn49",
+    "parentId": "sn-mahavaggasamyutta",
+    "name": "Sammappadhānasaṁyutta",
+    "nameEn": "Linked Discourses on the Right Efforts ",
+    "acro": "SN 49"
+  },
+  {
+    "id": "sn49-gangapeyyalavagga",
+    "parentId": "sn49",
+    "name": "Gaṅgāpeyyālavagga",
+    "nameEn": "The Chapter of Abbreviated Texts on the Ganges ",
+    "acro": "SN 49.1-12"
+  },
+  {
+    "id": "sn49-appamadavagga",
+    "parentId": "sn49",
+    "name": "Appamādavagga",
+    "nameEn": "The Chapter on Diligence ",
+    "acro": "SN 49.13-22"
+  },
+  {
+    "id": "sn49-balakaraniyavagga",
+    "parentId": "sn49",
+    "name": "Balakaraṇīyavagga",
+    "nameEn": "The Chapter on Hard Work ",
+    "acro": "SN 49.23-34"
+  },
+  {
+    "id": "sn49-esanavagga",
+    "parentId": "sn49",
+    "name": "Esanāvagga",
+    "nameEn": "The Chapter on Searches ",
+    "acro": "SN 49.35-44"
+  },
+  {
+    "id": "sn49-oghavagga",
+    "parentId": "sn49",
+    "name": "Oghavagga",
+    "nameEn": "The Chapter on Floods ",
+    "acro": "SN 49.45-54"
+  },
+  {
+    "id": "sn50",
+    "parentId": "sn-mahavaggasamyutta",
+    "name": "Balasaṁyutta",
+    "nameEn": "Linked Discourses on the Five Powers ",
+    "acro": "SN 50"
+  },
+  {
+    "id": "sn50-gangapeyyalavagga",
+    "parentId": "sn50",
+    "name": "Gaṅgāpeyyālavagga",
+    "nameEn": "The Chapter of Abbreviated Texts on the Ganges ",
+    "acro": "SN 50.1-12"
+  },
+  {
+    "id": "sn50-appamadavagga",
+    "parentId": "sn50",
+    "name": "Appamādavagga",
+    "nameEn": "The Chapter on Diligence ",
+    "acro": "SN 50.13-22"
+  },
+  {
+    "id": "sn50-balakaraniyavagga",
+    "parentId": "sn50",
+    "name": "Balakaraṇīyavagga",
+    "nameEn": "The Chapter on Hard Work ",
+    "acro": "SN 50.23-34"
+  },
+  {
+    "id": "sn50-esanavagga",
+    "parentId": "sn50",
+    "name": "Esanāvagga",
+    "nameEn": "The Chapter on Searches ",
+    "acro": "SN 50.35-44"
+  },
+  {
+    "id": "sn50-oghavagga",
+    "parentId": "sn50",
+    "name": "Oghavagga",
+    "nameEn": "The Chapter on Floods ",
+    "acro": "SN 50.45-54"
+  },
+  {
+    "id": "sn50-punagangapeyyalavagga",
+    "parentId": "sn50",
+    "name": "Punagaṅgāpeyyālavagga",
+    "nameEn": "Another Chapter of Abbreviated Texts on the Ganges ",
+    "acro": "SN 50.55-66"
+  },
+  {
+    "id": "sn50-punaappamadavagga",
+    "parentId": "sn50",
+    "name": "Punaappamādavagga",
+    "nameEn": "Another Chapter on Diligence ",
+    "acro": "SN 50.67-76"
+  },
+  {
+    "id": "sn50-punabalakaraniyavagga",
+    "parentId": "sn50",
+    "name": "Punabalakaraṇīyavagga",
+    "nameEn": "Another Chapter on Hard Work ",
+    "acro": "SN 50.77-88"
+  },
+  {
+    "id": "sn50-punaesanavagga",
+    "parentId": "sn50",
+    "name": "Punaesanāvagga",
+    "nameEn": "Another Chapter on Searches ",
+    "acro": "SN 50.89-98"
+  },
+  {
+    "id": "sn50-punaoghavagga",
+    "parentId": "sn50",
+    "name": "Punaoghavagga",
+    "nameEn": "Another Chapter on Floods ",
+    "acro": "SN 50.99-108"
+  },
+  {
+    "id": "sn51",
+    "parentId": "sn-mahavaggasamyutta",
+    "name": "Iddhipādasaṁyutta",
+    "nameEn": "Linked Discourses on the Bases of Psychic Power ",
+    "acro": "SN 51"
+  },
+  {
+    "id": "sn51-capalavagga",
+    "parentId": "sn51",
+    "name": "Cāpālavagga",
+    "nameEn": "The Chapter at the Cāpāla Shrine ",
+    "acro": "SN 51.1-10"
+  },
+  {
+    "id": "sn51-pasadakampanavagga",
+    "parentId": "sn51",
+    "name": "Pāsādakampanavagga",
+    "nameEn": "The Chapter on Shaking the Stilt Longhouse ",
+    "acro": "SN 51.11-20"
+  },
+  {
+    "id": "sn51-ayogulavagga",
+    "parentId": "sn51",
+    "name": "Ayoguḷavagga",
+    "nameEn": "The Chapter on the Iron Ball ",
+    "acro": "SN 51.21-32"
+  },
+  {
+    "id": "sn51-gangapeyyalavagga",
+    "parentId": "sn51",
+    "name": "Gaṅgāpeyyālavagga",
+    "nameEn": "The Chapter of Abbreviated Texts on the Ganges ",
+    "acro": "SN 51.33-44"
+  },
+  {
+    "id": "sn51-appamadavagga",
+    "parentId": "sn51",
+    "name": "Appamādavagga",
+    "nameEn": "The Chapter on Diligence ",
+    "acro": "SN 51.45-54"
+  },
+  {
+    "id": "sn51-balakaraniyavagga",
+    "parentId": "sn51",
+    "name": "Balakaraṇīyavagga",
+    "nameEn": "The Chapter on Hard Work ",
+    "acro": "SN 51.55-66"
+  },
+  {
+    "id": "sn51-esanavagga",
+    "parentId": "sn51",
+    "name": "Esanāvagga",
+    "nameEn": "The Chapter on Searches ",
+    "acro": "SN 51.67-76"
+  },
+  {
+    "id": "sn51-oghavagga",
+    "parentId": "sn51",
+    "name": "Oghavagga",
+    "nameEn": "The Chapter on Floods ",
+    "acro": "SN 51.77-86"
+  },
+  {
+    "id": "sn52",
+    "parentId": "sn-mahavaggasamyutta",
+    "name": "Anuruddhasaṁyutta",
+    "nameEn": "Linked Discourses with Anuruddha ",
+    "acro": "SN 52"
+  },
+  {
+    "id": "sn52-rahogatavagga",
+    "parentId": "sn52",
+    "name": "Rahogatavagga",
+    "nameEn": "The Chapter on In Private ",
+    "acro": "SN 52.1-10"
+  },
+  {
+    "id": "sn52-dutiyavagga",
+    "parentId": "sn52",
+    "name": "Dutiyavagga",
+    "nameEn": "Chapter Two ",
+    "acro": "SN 52.11-24"
+  },
+  {
+    "id": "sn53",
+    "parentId": "sn-mahavaggasamyutta",
+    "name": "Jhānasaṁyutta",
+    "nameEn": "Linked Discourses on Absorption ",
+    "acro": "SN 53"
+  },
+  {
+    "id": "sn53-gangapeyyalavagga",
+    "parentId": "sn53",
+    "name": "Gaṅgāpeyyālavagga",
+    "nameEn": "The Chapter of Abbreviated Texts on the Ganges ",
+    "acro": "SN 53.1-12"
+  },
+  {
+    "id": "sn53-appamadavagga",
+    "parentId": "sn53",
+    "name": "Appamādavagga",
+    "nameEn": "The Chapter on Diligence ",
+    "acro": "SN 53.13-22"
+  },
+  {
+    "id": "sn53-balakaraniyavagga",
+    "parentId": "sn53",
+    "name": "Balakaraṇīyavagga",
+    "nameEn": "The Chapter on Hard Work ",
+    "acro": "SN 53.23-34"
+  },
+  {
+    "id": "sn53-esanavagga",
+    "parentId": "sn53",
+    "name": "Esanāvagga",
+    "nameEn": "The Chapter on Searches ",
+    "acro": "SN 53.35-44"
+  },
+  {
+    "id": "sn53-oghavagga",
+    "parentId": "sn53",
+    "name": "Oghavagga",
+    "nameEn": "The Chapter on Floods ",
+    "acro": "SN 53.45-54"
+  },
+  {
+    "id": "sn54",
+    "parentId": "sn-mahavaggasamyutta",
+    "name": "Ānāpānasaṁyutta",
+    "nameEn": "Linked Discourses on Breath Meditation ",
+    "acro": "SN 54"
+  },
+  {
+    "id": "sn54-ekadhammavagga",
+    "parentId": "sn54",
+    "name": "Ekadhammavagga",
+    "nameEn": "The Chapter on One Thing ",
+    "acro": "SN 54.1-10"
+  },
+  {
+    "id": "sn54-dutiyavagga",
+    "parentId": "sn54",
+    "name": "Dutiyavagga",
+    "nameEn": "Chapter Two ",
+    "acro": "SN 54.11-20"
+  },
+  {
+    "id": "sn55",
+    "parentId": "sn-mahavaggasamyutta",
+    "name": "Sotāpattisaṁyutta",
+    "nameEn": "Linked Discourses on Stream-Entry ",
+    "acro": "SN 55"
+  },
+  {
+    "id": "sn55-veludvaravagga",
+    "parentId": "sn55",
+    "name": "Veḷudvāravagga",
+    "nameEn": "The Chapter at Bamboo Gate ",
+    "acro": "SN 55.1-10"
+  },
+  {
+    "id": "sn55-rajakaramavagga",
+    "parentId": "sn55",
+    "name": "Rājakārāmavagga",
+    "nameEn": "The Chapter on the Royal Monastery ",
+    "acro": "SN 55.11-20"
+  },
+  {
+    "id": "sn55-sarananivagga",
+    "parentId": "sn55",
+    "name": "Saraṇānivagga",
+    "nameEn": "The Chapter with Sarakāni ",
+    "acro": "SN 55.21-30"
+  },
+  {
+    "id": "sn55-punnabhisandavagga",
+    "parentId": "sn55",
+    "name": "Puññābhisandavagga",
+    "nameEn": "The Chapter on Overflowing Merit ",
+    "acro": "SN 55.31-40"
+  },
+  {
+    "id": "sn55-sagathakapunnabhisandavagga",
+    "parentId": "sn55",
+    "name": "Sagāthakapuññābhisandavagga",
+    "nameEn": "The Chapter on Overflowing Merit, With Verses ",
+    "acro": "SN 55.41-50"
+  },
+  {
+    "id": "sn55-sappannavagga",
+    "parentId": "sn55",
+    "name": "Sappaññavagga",
+    "nameEn": "The Chapter on a Wise Person ",
+    "acro": "SN 55.51-61"
+  },
+  {
+    "id": "sn55-mahapannavagga",
+    "parentId": "sn55",
+    "name": "Mahāpaññavagga",
+    "nameEn": "The Chapter on Great Wisdom ",
+    "acro": "SN 55.62-74"
+  },
+  {
+    "id": "sn56",
+    "parentId": "sn-mahavaggasamyutta",
+    "name": "Saccasaṁyutta",
+    "nameEn": "Linked Discourses on the Truths ",
+    "acro": "SN 56"
+  },
+  {
+    "id": "sn56-samadhivagga",
+    "parentId": "sn56",
+    "name": "Samādhivagga",
+    "nameEn": "The Chapter on Immersion ",
+    "acro": "SN 56.1-10"
+  },
+  {
+    "id": "sn56-dhammacakkappavattanavagga",
+    "parentId": "sn56",
+    "name": "Dhammacakkappavattanavagga",
+    "nameEn": "The Chapter on Rolling Forth the Wheel of Dhamma ",
+    "acro": "SN 56.11-20"
+  },
+  {
+    "id": "sn56-kotigamavagga",
+    "parentId": "sn56",
+    "name": "Koṭigāmavagga",
+    "nameEn": "The Chapter at the Village of Koṭi ",
+    "acro": "SN 56.21-30"
+  },
+  {
+    "id": "sn56-sisapavanavagga",
+    "parentId": "sn56",
+    "name": "Sīsapāvanavagga",
+    "nameEn": "The Chapter in a Rosewood Forest ",
+    "acro": "SN 56.31-40"
+  },
+  {
+    "id": "sn56-papatavagga",
+    "parentId": "sn56",
+    "name": "Papātavagga",
+    "nameEn": "The Chapter on a Cliff ",
+    "acro": "SN 56.41-50"
+  },
+  {
+    "id": "sn56-abhisamayavagga",
+    "parentId": "sn56",
+    "name": "Abhisamayavagga",
+    "nameEn": "The Chapter on Comprehension ",
+    "acro": "SN 56.51-60"
+  },
+  {
+    "id": "sn56-pathamaamakadhannapeyyalavagga",
+    "parentId": "sn56",
+    "name": "Paṭhamaāmakadhaññapeyyālavagga",
+    "nameEn": "The First Chapter of Abbreviated Texts on Raw Grain ",
+    "acro": "SN 56.61-70"
+  },
+  {
+    "id": "sn56-dutiyaamakadhannapeyyalavagga",
+    "parentId": "sn56",
+    "name": "Dutiyaāmakadhaññapeyyālavagga",
+    "nameEn": "The Second Chapter of Abbreviated Texts on Raw Grain ",
+    "acro": "SN 56.71-80"
+  },
+  {
+    "id": "sn56-tatiyaamakadhannapeyyalavagga",
+    "parentId": "sn56",
+    "name": "Tatiyaāmakadhaññapeyyālavagga",
+    "nameEn": "The Third Chapter of Abbreviated Texts on Raw Grain ",
+    "acro": "SN 56.81-90"
+  },
+  {
+    "id": "sn56-catutthaamakadhannapeyyalavagga",
+    "parentId": "sn56",
+    "name": "Catutthaāmakadhaññapeyyālavagga",
+    "nameEn": "The Fourth Chapter of Abbreviated Texts on Raw Grain ",
+    "acro": "SN 56.91-101"
+  },
+  {
+    "id": "sn56-pancagatipeyyalavagga",
+    "parentId": "sn56",
+    "name": "Pañcagatipeyyālavagga",
+    "nameEn": "The Chapter of Abbreviated Texts on Five Destinations ",
+    "acro": "SN 56.102-131"
+  },
+  {
+    "id": "an",
+    "parentId": "sutta",
+    "name": "Aṅguttaranikāya",
+    "nameEn": "Numbered Discourses Collection ",
+    "acro": "AN"
+  },
+  {
+    "id": "an1",
+    "parentId": "an",
+    "name": "Ekakanipāta",
+    "nameEn": "The Book of the Ones ",
+    "acro": "AN 1"
+  },
+  {
+    "id": "an1-cittapariyadanavagga",
+    "parentId": "an1",
+    "name": "Cittapariyādānavagga",
+    "nameEn": "The Chapter on What Occupies the Mind ",
+    "acro": "AN 1.1-10"
+  },
+  {
+    "id": "an1-nivaranappahanavagga",
+    "parentId": "an1",
+    "name": "Nīvaraṇappahāṇavagga",
+    "nameEn": "The Chapter on Giving Up the Hindrances ",
+    "acro": "AN 1.11-20"
+  },
+  {
+    "id": "an1-akammaniyavagga",
+    "parentId": "an1",
+    "name": "Akammaniyavagga",
+    "nameEn": "The Chapter on the Useless Mind ",
+    "acro": "AN 1.21-30"
+  },
+  {
+    "id": "an1-adantavagga",
+    "parentId": "an1",
+    "name": "Adantavagga",
+    "nameEn": "The Chapter on the Wild Mind ",
+    "acro": "AN 1.31-40"
+  },
+  {
+    "id": "an1-panihitaacchavagga",
+    "parentId": "an1",
+    "name": "Paṇihitaacchavagga",
+    "nameEn": "The Chapter on a Spike ",
+    "acro": "AN 1.41-50"
+  },
+  {
+    "id": "an1-accharasanghatavagga",
+    "parentId": "an1",
+    "name": "Accharāsaṅghātavagga",
+    "nameEn": "The Chapter on a Finger-Snap ",
+    "acro": "AN 1.51-60"
+  },
+  {
+    "id": "an1-viriyarambhadivagga",
+    "parentId": "an1",
+    "name": "Vīriyārambhādivagga",
+    "nameEn": "The Chapter on Arousing Energy ",
+    "acro": "AN 1.61-70"
+  },
+  {
+    "id": "an1-kalyanamittadivagga",
+    "parentId": "an1",
+    "name": "Kalyāṇamittādivagga",
+    "nameEn": "The Chapter on Good Friends ",
+    "acro": "AN 1.71-81"
+  },
+  {
+    "id": "an1-pamadadivagga",
+    "parentId": "an1",
+    "name": "Pamādādivagga",
+    "nameEn": "The Chapter on Negligence ",
+    "acro": "AN 1.82-97"
+  },
+  {
+    "id": "an1-dutiyapamadadivagga",
+    "parentId": "an1",
+    "name": "Dutiyapamādādivagga",
+    "nameEn": "The Chapter on Negligence (2nd) ",
+    "acro": "AN 1.98-139"
+  },
+  {
+    "id": "an1-adhammavagga",
+    "parentId": "an1",
+    "name": "Adhammavagga",
+    "nameEn": "The Chapter on Not the Teaching ",
+    "acro": "AN 1.140-149"
+  },
+  {
+    "id": "an1-anapattivagga",
+    "parentId": "an1",
+    "name": "Anāpattivagga",
+    "nameEn": "The Chapter on Non-offense ",
+    "acro": "AN 1.150-169"
+  },
+  {
+    "id": "an1-ekapuggalavagga",
+    "parentId": "an1",
+    "name": "Ekapuggalavagga",
+    "nameEn": "The Chapter on One Person ",
+    "acro": "AN 1.170-187"
+  },
+  {
+    "id": "an1-etadaggavagga",
+    "parentId": "an1",
+    "name": "Etadaggavagga",
+    "nameEn": "Seven Chapters on the Foremost Persons ",
+    "acro": "AN 1.188-267"
+  },
+  {
+    "id": "an1-atthana",
+    "parentId": "an1",
+    "name": "Aṭṭhānavagga",
+    "nameEn": "Three Chapters on the Impossible ",
+    "acro": "AN 1.268-295"
+  },
+  {
+    "id": "an1-ekadhamma",
+    "parentId": "an1",
+    "name": "Ekadhammavagga",
+    "nameEn": "Four Chapters on One Thing ",
+    "acro": "AN 1.296-377"
+  },
+  {
+    "id": "an1-pasadakaradhammavagga",
+    "parentId": "an1",
+    "name": "Pasādakaradhammavagga",
+    "nameEn": "The Chapter on Inspiring Qualities ",
+    "acro": "AN 1.378-393"
+  },
+  {
+    "id": "an1-aparaaccharasanghatavagga",
+    "parentId": "an1",
+    "name": "Aparaaccharāsaṅghātavagga",
+    "nameEn": "Another Chapter on a Finger-Snap ",
+    "acro": "AN 1.394-574"
+  },
+  {
+    "id": "an1-kayagatasativagga",
+    "parentId": "an1",
+    "name": "Kāyagatāsativagga",
+    "nameEn": "The Chapter on Mindfulness of the Body ",
+    "acro": "AN 1.575-615"
+  },
+  {
+    "id": "an1-amatavagga",
+    "parentId": "an1",
+    "name": "Amatavagga",
+    "nameEn": "The Chapter on the Deathless ",
+    "acro": "AN 1.616-627"
+  },
+  {
+    "id": "an2",
+    "parentId": "an",
+    "name": "Dukanipāta",
+    "nameEn": "The Book of the Twos ",
+    "acro": "AN 2"
+  },
+  {
+    "id": "an2-pathamapannasaka",
+    "parentId": "an2",
+    "name": "Paṭhamapaṇṇāsaka",
+    "nameEn": "The First Fifty ",
+    "acro": ""
+  },
+  {
+    "id": "an2-kammakaranavagga",
+    "parentId": "an2-pathamapannasaka",
+    "name": "Kammakaraṇavagga",
+    "nameEn": "The Chapter on Punishments ",
+    "acro": "AN 2.1-10"
+  },
+  {
+    "id": "an2-adhikaranavagga",
+    "parentId": "an2-pathamapannasaka",
+    "name": "Adhikaraṇavagga",
+    "nameEn": "The Chapter on Disciplinary Issues ",
+    "acro": "AN 2.11-20"
+  },
+  {
+    "id": "an2-balavagga",
+    "parentId": "an2-pathamapannasaka",
+    "name": "Bālavagga",
+    "nameEn": "The Chapter on Fools ",
+    "acro": "AN 2.21-31"
+  },
+  {
+    "id": "an2-samacittavagga",
+    "parentId": "an2-pathamapannasaka",
+    "name": "Samacittavagga",
+    "nameEn": "The Chapter on the Peaceful Mind ",
+    "acro": "AN 2.32-41"
+  },
+  {
+    "id": "an2-parisavagga",
+    "parentId": "an2-pathamapannasaka",
+    "name": "Parisavagga",
+    "nameEn": "The Chapter on Assemblies ",
+    "acro": "AN 2.42-51"
+  },
+  {
+    "id": "an2-dutiyapannasaka",
+    "parentId": "an2",
+    "name": "Dutiyapaṇṇāsaka",
+    "nameEn": "The Second Fifty ",
+    "acro": ""
+  },
+  {
+    "id": "an2-puggalavagga",
+    "parentId": "an2-dutiyapannasaka",
+    "name": "Puggalavagga",
+    "nameEn": "The Chapter on Persons ",
+    "acro": "AN 2.52-63"
+  },
+  {
+    "id": "an2-sukhavagga",
+    "parentId": "an2-dutiyapannasaka",
+    "name": "Sukhavagga",
+    "nameEn": "The Chapter on Happiness ",
+    "acro": "AN 2.64-76"
+  },
+  {
+    "id": "an2-sanimittavagga",
+    "parentId": "an2-dutiyapannasaka",
+    "name": "Sanimittavagga",
+    "nameEn": "The Chapter with a Foundation ",
+    "acro": "AN 2.77-86"
+  },
+  {
+    "id": "an2-dhammavagga",
+    "parentId": "an2-dutiyapannasaka",
+    "name": "Dhammavagga",
+    "nameEn": "The Chapter on Two Things ",
+    "acro": "AN 2.87-97"
+  },
+  {
+    "id": "an2-balavagga2",
+    "parentId": "an2-dutiyapannasaka",
+    "name": "Bālavagga",
+    "nameEn": "The Chapter on Fools ",
+    "acro": "AN 2.98-117"
+  },
+  {
+    "id": "an2-tatiyapannasaka",
+    "parentId": "an2",
+    "name": "Tatiyapaṇṇāsaka",
+    "nameEn": "The Third Fifty ",
+    "acro": ""
+  },
+  {
+    "id": "an2-asaduppajahavagga",
+    "parentId": "an2-tatiyapannasaka",
+    "name": "Āsāduppajahavagga",
+    "nameEn": "The Chapter on Hopes That Are Hard to Give Up ",
+    "acro": "AN 2.118-129"
+  },
+  {
+    "id": "an2-ayacanavagga",
+    "parentId": "an2-tatiyapannasaka",
+    "name": "Āyācanavagga",
+    "nameEn": "The Chapter on Aspiration ",
+    "acro": "AN 2.130-140"
+  },
+  {
+    "id": "an2-danavagga",
+    "parentId": "an2-tatiyapannasaka",
+    "name": "Dānavagga",
+    "nameEn": "The Chapter on Giving ",
+    "acro": "AN 2.141-150"
+  },
+  {
+    "id": "an2-santharavagga",
+    "parentId": "an2-tatiyapannasaka",
+    "name": "Santhāravagga",
+    "nameEn": "The Chapter on Welcome ",
+    "acro": "AN 2.151-162"
+  },
+  {
+    "id": "an2-samapattivagga",
+    "parentId": "an2-tatiyapannasaka",
+    "name": "Samāpattivagga",
+    "nameEn": "The Chapter on Attainment ",
+    "acro": "AN 2.163-179"
+  },
+  {
+    "id": "an2-peyyala",
+    "parentId": "an2",
+    "name": "Peyyāla",
+    "nameEn": "Abbreviated Texts ",
+    "acro": ""
+  },
+  {
+    "id": "an2-kodhapeyyalavagga",
+    "parentId": "an2-peyyala",
+    "name": "Kodhapeyyālavagga",
+    "nameEn": "The Chapter of Abbreviated Texts Beginning With Anger",
+    "acro": "AN 2.180-229"
+  },
+  {
+    "id": "an2-akusalapeyyalavagga",
+    "parentId": "an2-peyyala",
+    "name": "Akusalapeyyālavagga",
+    "nameEn": "The Chapter of Abbreviated Texts Beginning With the Unskillful",
+    "acro": "AN 2.230-279"
+  },
+  {
+    "id": "an2-vinayapeyyalavagga",
+    "parentId": "an2-peyyala",
+    "name": "Vinayapeyyālavagga",
+    "nameEn": "The Chapter of Abbreviated Texts on Monastic Law ",
+    "acro": "AN 2.280-309"
+  },
+  {
+    "id": "an2-ragapeyyalavagga",
+    "parentId": "an2-peyyala",
+    "name": "Rāgapeyyālavagga",
+    "nameEn": "The Chapter of Abbreviated Texts Beginning with Greed ",
+    "acro": "AN 2.310-479"
+  },
+  {
+    "id": "an3",
+    "parentId": "an",
+    "name": "Tikanipāta",
+    "nameEn": "The Book of the Threes ",
+    "acro": "AN 3"
+  },
+  {
+    "id": "an3-pathamapannasaka",
+    "parentId": "an3",
+    "name": "Paṭhamapaṇṇāsaka",
+    "nameEn": "The First Fifty ",
+    "acro": ""
+  },
+  {
+    "id": "an3-balavagga",
+    "parentId": "an3-pathamapannasaka",
+    "name": "Bālavagga",
+    "nameEn": "The Chapter on Fools ",
+    "acro": "AN 3.1-10"
+  },
+  {
+    "id": "an3-rathakaravagga",
+    "parentId": "an3-pathamapannasaka",
+    "name": "Rathakāravagga",
+    "nameEn": "The Chapter on the Chariot-maker ",
+    "acro": "AN 3.11-20"
+  },
+  {
+    "id": "an3-puggalavagga",
+    "parentId": "an3-pathamapannasaka",
+    "name": "Puggalavagga",
+    "nameEn": "The Chapter on Persons ",
+    "acro": "AN 3.21-30"
+  },
+  {
+    "id": "an3-devadutavagga",
+    "parentId": "an3-pathamapannasaka",
+    "name": "Devadūtavagga",
+    "nameEn": "The Chapter on Messengers of the Gods ",
+    "acro": "AN 3.31-40"
+  },
+  {
+    "id": "an3-culavagga",
+    "parentId": "an3-pathamapannasaka",
+    "name": "Cūḷavagga",
+    "nameEn": "A Short Chapter ",
+    "acro": "AN 3.41-50"
+  },
+  {
+    "id": "an3-dutiyapannasaka",
+    "parentId": "an3",
+    "name": "Dutiyapaṇṇāsaka",
+    "nameEn": "The Second Fifty ",
+    "acro": ""
+  },
+  {
+    "id": "an3-brahmanavagga",
+    "parentId": "an3-dutiyapannasaka",
+    "name": "Brāhmaṇavagga",
+    "nameEn": "The Chapter on Brahmins ",
+    "acro": "AN 3.51-60"
+  },
+  {
+    "id": "an3-mahavagga",
+    "parentId": "an3-dutiyapannasaka",
+    "name": "Mahāvagga",
+    "nameEn": "The Great Chapter ",
+    "acro": "AN 3.61-70"
+  },
+  {
+    "id": "an3-anandavagga",
+    "parentId": "an3-dutiyapannasaka",
+    "name": "Ānandavagga",
+    "nameEn": "The Chapter with Ānanda ",
+    "acro": "AN 3.71-80"
+  },
+  {
+    "id": "an3-samanavagga",
+    "parentId": "an3-dutiyapannasaka",
+    "name": "Samaṇavagga",
+    "nameEn": "The Chapter on Ascetics ",
+    "acro": "AN 3.81-91"
+  },
+  {
+    "id": "an3-lonakapallavagga",
+    "parentId": "an3-dutiyapannasaka",
+    "name": "Loṇakapallavagga",
+    "nameEn": "The Chapter on a Lump of Salt ",
+    "acro": "AN 3.92-102"
+  },
+  {
+    "id": "an3-tatiyapannasaka",
+    "parentId": "an3",
+    "name": "Tatiyapaṇṇāsaka",
+    "nameEn": "The Third Fifty ",
+    "acro": ""
+  },
+  {
+    "id": "an3-sambodhavagga",
+    "parentId": "an3-tatiyapannasaka",
+    "name": "Sambodhavagga",
+    "nameEn": "The Chapter on Awakening ",
+    "acro": "AN 3.103-112"
+  },
+  {
+    "id": "an3-apayikavagga",
+    "parentId": "an3-tatiyapannasaka",
+    "name": "Āpāyikavagga",
+    "nameEn": "The Chapter on Bound for Loss ",
+    "acro": "AN 3.113-122"
+  },
+  {
+    "id": "an3-kusinaravagga",
+    "parentId": "an3-tatiyapannasaka",
+    "name": "Kusināravagga",
+    "nameEn": "The Chapter at Kusināra ",
+    "acro": "AN 3.123-132"
+  },
+  {
+    "id": "an3-yodhajivavagga",
+    "parentId": "an3-tatiyapannasaka",
+    "name": "Yodhājīvavagga",
+    "nameEn": "The Chapter on a Warrior ",
+    "acro": "AN 3.133-145"
+  },
+  {
+    "id": "an3-mangalavagga",
+    "parentId": "an3-tatiyapannasaka",
+    "name": "Maṅgalavagga",
+    "nameEn": "The Chapter on Good Fortune ",
+    "acro": "AN 3.146-155"
+  },
+  {
+    "id": "an3-patipadavagga",
+    "parentId": "an3-tatiyapannasaka",
+    "name": "Patipadāvagga",
+    "nameEn": "The Chapter on Practices ",
+    "acro": "AN 3.156-162"
+  },
+  {
+    "id": "an3-kammapathapeyyavagga",
+    "parentId": "an3-tatiyapannasaka",
+    "name": "Kammapathapeyyāvagga",
+    "nameEn": "The Chapter on Ways of Performing Deeds ",
+    "acro": "AN 3.163-182"
+  },
+  {
+    "id": "an3-ragadipeyyalavagga",
+    "parentId": "an3-tatiyapannasaka",
+    "name": "Rāgādipeyyālavagga",
+    "nameEn": "The Chapter on Abbreviated Texts Beginning with Greed ",
+    "acro": "AN 3.183-352"
+  },
+  {
+    "id": "an4",
+    "parentId": "an",
+    "name": "Catukkanipāta",
+    "nameEn": "The Book of the Fours ",
+    "acro": "AN 4"
+  },
+  {
+    "id": "an4-pathamapannasaka",
+    "parentId": "an4",
+    "name": "Paṭhamapaṇṇāsaka",
+    "nameEn": "The First Fifty ",
+    "acro": ""
+  },
+  {
+    "id": "an4-bhandagamavagga",
+    "parentId": "an4-pathamapannasaka",
+    "name": "Bhaṇḍagāmavagga",
+    "nameEn": "The Chapter at Wares Village ",
+    "acro": "AN 4.1-10"
+  },
+  {
+    "id": "an4-caravagga",
+    "parentId": "an4-pathamapannasaka",
+    "name": "Caravagga",
+    "nameEn": "The Chapter on Walking ",
+    "acro": "AN 4.11-20"
+  },
+  {
+    "id": "an4-uruvelavagga",
+    "parentId": "an4-pathamapannasaka",
+    "name": "Uruvelavagga",
+    "nameEn": "The Chapter at Uruvelā ",
+    "acro": "AN 4.21-30"
+  },
+  {
+    "id": "an4-cakkavagga",
+    "parentId": "an4-pathamapannasaka",
+    "name": "Cakkavagga",
+    "nameEn": "The Chapter on Situations ",
+    "acro": "AN 4.31-40"
+  },
+  {
+    "id": "an4-rohitassavagga",
+    "parentId": "an4-pathamapannasaka",
+    "name": "Rohitassavagga",
+    "nameEn": "The Chapter with Rohitassa ",
+    "acro": "AN 4.41-50"
+  },
+  {
+    "id": "an4-dutiyapannasaka",
+    "parentId": "an4",
+    "name": "Dutiyapaṇṇāsaka",
+    "nameEn": "The Second Fifty ",
+    "acro": ""
+  },
+  {
+    "id": "an4-punnabhisandavagga",
+    "parentId": "an4-dutiyapannasaka",
+    "name": "Puññābhisandavagga",
+    "nameEn": "The Chapter on Overflowing Merit ",
+    "acro": "AN 4.51-60"
+  },
+  {
+    "id": "an4-pattakammavagga",
+    "parentId": "an4-dutiyapannasaka",
+    "name": "Pattakammavagga",
+    "nameEn": "The Chapter on Deeds of Substance ",
+    "acro": "AN 4.61-70"
+  },
+  {
+    "id": "an4-apannakavagga",
+    "parentId": "an4-dutiyapannasaka",
+    "name": "Apaṇṇakavagga",
+    "nameEn": "The Chapter on Guaranteed ",
+    "acro": "AN 4.71-80"
+  },
+  {
+    "id": "an4-macalavagga",
+    "parentId": "an4-dutiyapannasaka",
+    "name": "Macalavagga",
+    "nameEn": "The Chapter on Confirmed ",
+    "acro": "AN 4.81-90"
+  },
+  {
+    "id": "an4-asuravagga",
+    "parentId": "an4-dutiyapannasaka",
+    "name": "Asuravagga",
+    "nameEn": "The Chapter on Demons ",
+    "acro": "AN 4.91-100"
+  },
+  {
+    "id": "an4-tatiyapannasaka",
+    "parentId": "an4",
+    "name": "Tatiyapaṇṇāsaka",
+    "nameEn": "The Third Fifty ",
+    "acro": ""
+  },
+  {
+    "id": "an4-valahakavagga",
+    "parentId": "an4-tatiyapannasaka",
+    "name": "Valāhakavagga",
+    "nameEn": "The Chapter on Gods of the Clouds ",
+    "acro": "AN 4.101-110"
+  },
+  {
+    "id": "an4-kesivagga",
+    "parentId": "an4-tatiyapannasaka",
+    "name": "Kesivagga",
+    "nameEn": "The Chapter with Kesi ",
+    "acro": "AN 4.111-120"
+  },
+  {
+    "id": "an4-bhayavagga",
+    "parentId": "an4-tatiyapannasaka",
+    "name": "Bhayavagga",
+    "nameEn": "The Chapter on Perils ",
+    "acro": "AN 4.121-130"
+  },
+  {
+    "id": "an4-puggalavagga",
+    "parentId": "an4-tatiyapannasaka",
+    "name": "Puggalavagga",
+    "nameEn": "The Chapter on Persons ",
+    "acro": "AN 4.131-140"
+  },
+  {
+    "id": "an4-abhavagga",
+    "parentId": "an4-tatiyapannasaka",
+    "name": "Ābhāvagga",
+    "nameEn": "The Chapter on Brightness ",
+    "acro": "AN 4.141-150"
+  },
+  {
+    "id": "an4-catutthapannasaka",
+    "parentId": "an4",
+    "name": "Catutthapaṇṇāsaka",
+    "nameEn": "The Fourth Fifty ",
+    "acro": ""
+  },
+  {
+    "id": "an4-indriyavagga",
+    "parentId": "an4-catutthapannasaka",
+    "name": "Indriyavagga",
+    "nameEn": "The Chapter on Faculties ",
+    "acro": "AN 4.151-160"
+  },
+  {
+    "id": "an4-patipadavagga",
+    "parentId": "an4-catutthapannasaka",
+    "name": "Paṭipadāvagga",
+    "nameEn": "The Chapter on Practice ",
+    "acro": "AN 4.161-170"
+  },
+  {
+    "id": "an4-sancetaniyavagga",
+    "parentId": "an4-catutthapannasaka",
+    "name": "Sañcetaniyavagga",
+    "nameEn": "The Chapter on Intention ",
+    "acro": "AN 4.171-180"
+  },
+  {
+    "id": "an4-brahmanavagga",
+    "parentId": "an4-catutthapannasaka",
+    "name": "Brāhmaṇavagga",
+    "nameEn": "The Chapter on Brahmins ",
+    "acro": "AN 4.181-190"
+  },
+  {
+    "id": "an4-mahavagga",
+    "parentId": "an4-catutthapannasaka",
+    "name": "Mahāvagga",
+    "nameEn": "The Great Chapter ",
+    "acro": "AN 4.191-200"
+  },
+  {
+    "id": "an4-pancamapannasaka",
+    "parentId": "an4",
+    "name": "Pañcamapaṇṇāsaka",
+    "nameEn": "The Fifth Fifty ",
+    "acro": ""
+  },
+  {
+    "id": "an4-sappurisavagga",
+    "parentId": "an4-pancamapannasaka",
+    "name": "Sappurisavagga",
+    "nameEn": "The Chapter on a Good Person ",
+    "acro": "AN 4.201-210"
+  },
+  {
+    "id": "an4-parisavagga",
+    "parentId": "an4-pancamapannasaka",
+    "name": "Parisāvagga",
+    "nameEn": "The Chapter on Assemblies ",
+    "acro": "AN 4.211-220"
+  },
+  {
+    "id": "an4-duccaritavagga",
+    "parentId": "an4-pancamapannasaka",
+    "name": "Duccaritavagga",
+    "nameEn": "The Chapter on Bad Conduct ",
+    "acro": "AN 4.221-231"
+  },
+  {
+    "id": "an4-kammavagga",
+    "parentId": "an4-pancamapannasaka",
+    "name": "Kammavagga",
+    "nameEn": "The Chapter on Deeds ",
+    "acro": "AN 4.232-242"
+  },
+  {
+    "id": "an4-apattibhayavagga",
+    "parentId": "an4-pancamapannasaka",
+    "name": "Āpattibhayavagga",
+    "nameEn": "The Chapter on Perils of Offenses ",
+    "acro": "AN 4.243-253"
+  },
+  {
+    "id": "an4-abhinnavagga",
+    "parentId": "an4-pancamapannasaka",
+    "name": "Abhiññāvagga",
+    "nameEn": "The Chapter on Direct Knowledges ",
+    "acro": "AN 4.254-263"
+  },
+  {
+    "id": "an4-kammapathavagga",
+    "parentId": "an4-pancamapannasaka",
+    "name": "Kammapathavagga",
+    "nameEn": "The Chapter on Ways of Performing Deeds ",
+    "acro": "AN 4.264-273"
+  },
+  {
+    "id": "an4-ragapeyyala",
+    "parentId": "an4-pancamapannasaka",
+    "name": "Rāgapeyyāla",
+    "nameEn": "Abbreviated Texts Beginning with Greed ",
+    "acro": "AN 4.274-783"
+  },
+  {
+    "id": "an5",
+    "parentId": "an",
+    "name": "Pañcakanipāta",
+    "nameEn": "The Book of the Fives ",
+    "acro": "AN 5"
+  },
+  {
+    "id": "an5-pathamapannasaka",
+    "parentId": "an5",
+    "name": "Paṭhamapaṇṇāsaka",
+    "nameEn": "The First Fifty ",
+    "acro": ""
+  },
+  {
+    "id": "an5-sekhabalavagga",
+    "parentId": "an5-pathamapannasaka",
+    "name": "Sekhabalavagga",
+    "nameEn": "The Chapter on Powers of a Trainee ",
+    "acro": "AN 5.1-10"
+  },
+  {
+    "id": "an5-balavagga",
+    "parentId": "an5-pathamapannasaka",
+    "name": "Balavagga",
+    "nameEn": "The Chapter on Powers ",
+    "acro": "AN 5.11-20"
+  },
+  {
+    "id": "an5-pancangikavagga",
+    "parentId": "an5-pathamapannasaka",
+    "name": "Pañcaṅgikavagga",
+    "nameEn": "The Chapter on Five Factors ",
+    "acro": "AN 5.21-30"
+  },
+  {
+    "id": "an5-sumanavagga",
+    "parentId": "an5-pathamapannasaka",
+    "name": "Sumanavagga",
+    "nameEn": "The Chapter with Sumanā ",
+    "acro": "AN 5.31-40"
+  },
+  {
+    "id": "an5-mundarajavagga",
+    "parentId": "an5-pathamapannasaka",
+    "name": "Muṇḍarājavagga",
+    "nameEn": "The Chapter with King Muṇḍa ",
+    "acro": "AN 5.41-50"
+  },
+  {
+    "id": "an5-dutiyapannasaka",
+    "parentId": "an5",
+    "name": "Dutiyapaṇṇāsaka",
+    "nameEn": "The Second Fifty ",
+    "acro": ""
+  },
+  {
+    "id": "an5-nivaranavagga",
+    "parentId": "an5-dutiyapannasaka",
+    "name": "Nīvaraṇavagga",
+    "nameEn": "The Chapter on Hindrances ",
+    "acro": "AN 5.51-60"
+  },
+  {
+    "id": "an5-sannavagga",
+    "parentId": "an5-dutiyapannasaka",
+    "name": "Saññāvagga",
+    "nameEn": "The Chapter on Perceptions ",
+    "acro": "AN 5.61-70"
+  },
+  {
+    "id": "an5-yodhajivavagga",
+    "parentId": "an5-dutiyapannasaka",
+    "name": "Yodhājīvavagga",
+    "nameEn": "The Chapter on a Warrior ",
+    "acro": "AN 5.71-80"
+  },
+  {
+    "id": "an5-theravagga",
+    "parentId": "an5-dutiyapannasaka",
+    "name": "Theravagga",
+    "nameEn": "The Chapter on Senior Mendicants ",
+    "acro": "AN 5.81-90"
+  },
+  {
+    "id": "an5-kakudhavagga",
+    "parentId": "an5-dutiyapannasaka",
+    "name": "Kakudhavagga",
+    "nameEn": "The Chapter with Kakudha ",
+    "acro": "AN 5.91-100"
+  },
+  {
+    "id": "an5-tatiyapannasaka",
+    "parentId": "an5",
+    "name": "Tatiyapaṇṇāsaka",
+    "nameEn": "The Third Fifty ",
+    "acro": ""
+  },
+  {
+    "id": "an5-phasuviharavagga",
+    "parentId": "an5-tatiyapannasaka",
+    "name": "Phāsuvihāravagga",
+    "nameEn": "The Chapter on Living Comfortably ",
+    "acro": "AN 5.101-110"
+  },
+  {
+    "id": "an5-andhakavindavagga",
+    "parentId": "an5-tatiyapannasaka",
+    "name": "Andhakavindavagga",
+    "nameEn": "The Chapter at Andhakavinda ",
+    "acro": "AN 5.111-120"
+  },
+  {
+    "id": "an5-gilanavagga",
+    "parentId": "an5-tatiyapannasaka",
+    "name": "Gilānavagga",
+    "nameEn": "The Chapter on Sick ",
+    "acro": "AN 5.121-130"
+  },
+  {
+    "id": "an5-rajavagga",
+    "parentId": "an5-tatiyapannasaka",
+    "name": "Rājavagga",
+    "nameEn": "The Chapter on Kings ",
+    "acro": "AN 5.131-140"
+  },
+  {
+    "id": "an5-tikandakivagga",
+    "parentId": "an5-tatiyapannasaka",
+    "name": "Tikaṇḍakīvagga",
+    "nameEn": "The Chapter at Tikaṇḍakī ",
+    "acro": "AN 5.141-150"
+  },
+  {
+    "id": "an5-catutthapannasaka",
+    "parentId": "an5",
+    "name": "Catutthapaṇṇāsaka",
+    "nameEn": "The Fourth Fifty ",
+    "acro": ""
+  },
+  {
+    "id": "an5-saddhammavagga",
+    "parentId": "an5-catutthapannasaka",
+    "name": "Saddhammavagga",
+    "nameEn": "The Chapter on the True Teaching ",
+    "acro": "AN 5.151-160"
+  },
+  {
+    "id": "an5-aghatavagga",
+    "parentId": "an5-catutthapannasaka",
+    "name": "Āghātavagga",
+    "nameEn": "The Chapter on Resentment ",
+    "acro": "AN 5.161-170"
+  },
+  {
+    "id": "an5-upasakavagga",
+    "parentId": "an5-catutthapannasaka",
+    "name": "Upāsakavagga",
+    "nameEn": "The Chapter on a Lay Follower ",
+    "acro": "AN 5.171-180"
+  },
+  {
+    "id": "an5-arannavagga",
+    "parentId": "an5-catutthapannasaka",
+    "name": "Araññavagga",
+    "nameEn": "The Chapter on Wilderness Dwellers ",
+    "acro": "AN 5.181-190"
+  },
+  {
+    "id": "an5-brahmanavagga",
+    "parentId": "an5-catutthapannasaka",
+    "name": "Brāhmaṇavagga",
+    "nameEn": "The Chapter on Brahmins ",
+    "acro": "AN 5.191-200"
+  },
+  {
+    "id": "an5-pancamapannasaka",
+    "parentId": "an5",
+    "name": "Pañcamapaṇṇāsaka",
+    "nameEn": "The Fifth Fifty ",
+    "acro": ""
+  },
+  {
+    "id": "an5-kimilavagga",
+    "parentId": "an5-pancamapannasaka",
+    "name": "Kimilavagga",
+    "nameEn": "The Chapter with Kimbila ",
+    "acro": "AN 5.201-210"
+  },
+  {
+    "id": "an5-akkosakavagga",
+    "parentId": "an5-pancamapannasaka",
+    "name": "Akkosakavagga",
+    "nameEn": "The Chapter on Abuse ",
+    "acro": "AN 5.211-220"
+  },
+  {
+    "id": "an5-dighacarikavagga",
+    "parentId": "an5-pancamapannasaka",
+    "name": "Dīghacārikavagga",
+    "nameEn": "The Chapter on Long Wandering ",
+    "acro": "AN 5.221-230"
+  },
+  {
+    "id": "an5-avasikavagga",
+    "parentId": "an5-pancamapannasaka",
+    "name": "Āvāsikavagga",
+    "nameEn": "The Chapter on a Resident Mendicant ",
+    "acro": "AN 5.231-240"
+  },
+  {
+    "id": "an5-duccaritavagga",
+    "parentId": "an5-pancamapannasaka",
+    "name": "Duccaritavagga",
+    "nameEn": "The Chapter on Bad Conduct ",
+    "acro": "AN 5.241-250"
+  },
+  {
+    "id": "an5-chatthapannasaka",
+    "parentId": "an5",
+    "name": "Chaṭṭhapaṇṇāsaka",
+    "nameEn": "The Sixth Fifty ",
+    "acro": ""
+  },
+  {
+    "id": "an5-upasampadavagga",
+    "parentId": "an5-chatthapannasaka",
+    "name": "Upasampadāvagga",
+    "nameEn": "The Chapter on Ordination ",
+    "acro": "AN 5.251-271"
+  },
+  {
+    "id": "an5-sammutipeyyala",
+    "parentId": "an5-chatthapannasaka",
+    "name": "Sammutipeyyāla",
+    "nameEn": "Abbreviated Texts on Appointments ",
+    "acro": "AN 5.272-285"
+  },
+  {
+    "id": "an5-sikkhapadapeyyala",
+    "parentId": "an5-chatthapannasaka",
+    "name": "Sikkhāpadapeyyāla",
+    "nameEn": "Abbreviated Texts on Training Rules ",
+    "acro": "AN 5.286-302"
+  },
+  {
+    "id": "an5-ragapeyyala",
+    "parentId": "an5-chatthapannasaka",
+    "name": "Rāgapeyyāla",
+    "nameEn": "Abbreviated Texts Beginning With Greed ",
+    "acro": "AN 5.303-1152"
+  },
+  {
+    "id": "an6",
+    "parentId": "an",
+    "name": "Chakkanipāta",
+    "nameEn": "The Book of the Sixes ",
+    "acro": "AN 6"
+  },
+  {
+    "id": "an6-pathamapannasaka",
+    "parentId": "an6",
+    "name": "Paṭhamapaṇṇāsaka",
+    "nameEn": "The First Fifty ",
+    "acro": ""
+  },
+  {
+    "id": "an6-ahuneyyavagga",
+    "parentId": "an6-pathamapannasaka",
+    "name": "Āhuneyyavagga",
+    "nameEn": "The Chapter on Worthy of Offerings ",
+    "acro": "AN 6.1-10"
+  },
+  {
+    "id": "an6-saraniyavagga",
+    "parentId": "an6-pathamapannasaka",
+    "name": "Sāraṇīyavagga",
+    "nameEn": "The Chapter on Warm-hearted ",
+    "acro": "AN 6.11-20"
+  },
+  {
+    "id": "an6-anuttariyavagga",
+    "parentId": "an6-pathamapannasaka",
+    "name": "Anuttariyavagga",
+    "nameEn": "The Chapter on Unsurpassable ",
+    "acro": "AN 6.21-30"
+  },
+  {
+    "id": "an6-pathamapannasaka-devatavagga",
+    "parentId": "an6-pathamapannasaka",
+    "name": "Devatāvagga",
+    "nameEn": "The Chapter on Deities ",
+    "acro": "AN 6.31-42"
+  },
+  {
+    "id": "an6-dhammikavagga",
+    "parentId": "an6-pathamapannasaka",
+    "name": "Dhammikavagga",
+    "nameEn": "The Chapter with Dhammika ",
+    "acro": "AN 6.43-54"
+  },
+  {
+    "id": "an6-dutiyapannasaka",
+    "parentId": "an6",
+    "name": "Dutiyapaṇṇāsaka",
+    "nameEn": "The Second Fifty ",
+    "acro": ""
+  },
+  {
+    "id": "an6-mahavagga",
+    "parentId": "an6-dutiyapannasaka",
+    "name": "Mahāvagga",
+    "nameEn": "The Great Chapter ",
+    "acro": "AN 6.55-64"
+  },
+  {
+    "id": "an6-dutiyapannasaka-devatavagga",
+    "parentId": "an6-dutiyapannasaka",
+    "name": "Devatāvagga",
+    "nameEn": "The Chapter on Deities ",
+    "acro": "AN 6.65-74"
+  },
+  {
+    "id": "an6-arahattavagga",
+    "parentId": "an6-dutiyapannasaka",
+    "name": "Arahattavagga",
+    "nameEn": "The Chapter on Perfection ",
+    "acro": "AN 6.75-84"
+  },
+  {
+    "id": "an6-sitivagga",
+    "parentId": "an6-dutiyapannasaka",
+    "name": "Sītivagga",
+    "nameEn": "The Chapter on Coolness ",
+    "acro": "AN 6.85-95"
+  },
+  {
+    "id": "an6-anisamsavagga",
+    "parentId": "an6-dutiyapannasaka",
+    "name": "Ānisaṁsavagga",
+    "nameEn": "The Chapter on Benefit ",
+    "acro": "AN 6.96-106"
+  },
+  {
+    "id": "an6-tikavagga",
+    "parentId": "an6-dutiyapannasaka",
+    "name": "Tikavagga",
+    "nameEn": "The Chapter on Triads ",
+    "acro": "AN 6.107-116"
+  },
+  {
+    "id": "an6-samannavagga",
+    "parentId": "an6-dutiyapannasaka",
+    "name": "Sāmaññavagga",
+    "nameEn": "The Chapter on the Ascetic Life ",
+    "acro": "AN 6.117-139"
+  },
+  {
+    "id": "an6-ragapeyyala",
+    "parentId": "an6-dutiyapannasaka",
+    "name": "Rāgapeyyāla",
+    "nameEn": "Abbreviated Texts Beginning With Greed ",
+    "acro": "AN 6.140-649"
+  },
+  {
+    "id": "an7",
+    "parentId": "an",
+    "name": "Sattakanipāta",
+    "nameEn": "The Book of the Sevens ",
+    "acro": "AN 7"
+  },
+  {
+    "id": "an7-pathamapannasaka",
+    "parentId": "an7",
+    "name": "Paṭhamapaṇṇāsaka",
+    "nameEn": "The First Fifty ",
+    "acro": ""
+  },
+  {
+    "id": "an7-dhanavagga",
+    "parentId": "an7-pathamapannasaka",
+    "name": "Dhanavagga",
+    "nameEn": "The Chapter on Wealth ",
+    "acro": "AN 7.1-10"
+  },
+  {
+    "id": "an7-anusayavagga",
+    "parentId": "an7-pathamapannasaka",
+    "name": "Anusayavagga",
+    "nameEn": "The Chapter on Tendencies ",
+    "acro": "AN 7.11-20"
+  },
+  {
+    "id": "an7-vajjisattakavagga",
+    "parentId": "an7-pathamapannasaka",
+    "name": "Vajjisattakavagga",
+    "nameEn": "The Chapter on the Vajjī Seven ",
+    "acro": "AN 7.21-31"
+  },
+  {
+    "id": "an7-devatavagga",
+    "parentId": "an7-pathamapannasaka",
+    "name": "Devatāvagga",
+    "nameEn": "The Chapter on Deities ",
+    "acro": "AN 7.32-43"
+  },
+  {
+    "id": "an7-mahayannavagga",
+    "parentId": "an7-pathamapannasaka",
+    "name": "Mahāyaññavagga",
+    "nameEn": "The Chapter on a Great Sacrifice ",
+    "acro": "AN 7.44-53"
+  },
+  {
+    "id": "an7-dutiyapannasaka",
+    "parentId": "an7",
+    "name": "Dutiyapaṇṇāsaka",
+    "nameEn": "The Second Fifty ",
+    "acro": ""
+  },
+  {
+    "id": "an7-abyakatavagga",
+    "parentId": "an7-dutiyapannasaka",
+    "name": "Abyākatavagga",
+    "nameEn": "The Chapter on the Undeclared Points ",
+    "acro": "AN 7.54-64"
+  },
+  {
+    "id": "an7-mahavagga",
+    "parentId": "an7-dutiyapannasaka",
+    "name": "Mahāvagga",
+    "nameEn": "The Great Chapter ",
+    "acro": "AN 7.65-74"
+  },
+  {
+    "id": "an7-vinayavagga",
+    "parentId": "an7-dutiyapannasaka",
+    "name": "Vinayavagga",
+    "nameEn": "The Chapter on the Monastic Law ",
+    "acro": "AN 7.75-84"
+  },
+  {
+    "id": "an7-samanavagga",
+    "parentId": "an7-dutiyapannasaka",
+    "name": "Samaṇavagga",
+    "nameEn": "The Chapter on Ascetics ",
+    "acro": "AN 7.85-94"
+  },
+  {
+    "id": "an7-ahuneyyavagga",
+    "parentId": "an7-dutiyapannasaka",
+    "name": "Āhuneyyavagga",
+    "nameEn": "The Chapter on Worthy of Offerings ",
+    "acro": "AN 7.95-614"
+  },
+  {
+    "id": "an7-ragapeyyala",
+    "parentId": "an7-dutiyapannasaka",
+    "name": "Rāgapeyyāla",
+    "nameEn": "Abbreviated Texts Beginning With Greed ",
+    "acro": "AN 7.615-1124"
+  },
+  {
+    "id": "an8",
+    "parentId": "an",
+    "name": "Aṭṭhakanipāta",
+    "nameEn": "The Book of the Eights ",
+    "acro": "AN 8"
+  },
+  {
+    "id": "an8-pathamapannasaka",
+    "parentId": "an8",
+    "name": "Paṭhamapaṇṇāsaka",
+    "nameEn": "The First Fifty ",
+    "acro": ""
+  },
+  {
+    "id": "an8-mettavagga",
+    "parentId": "an8-pathamapannasaka",
+    "name": "Mettāvagga",
+    "nameEn": "The Chapter on Love ",
+    "acro": "AN 8.1-10"
+  },
+  {
+    "id": "an8-mahavagga",
+    "parentId": "an8-pathamapannasaka",
+    "name": "Mahāvagga",
+    "nameEn": "The Great Chapter ",
+    "acro": "AN 8.11-20"
+  },
+  {
+    "id": "an8-gahapativagga",
+    "parentId": "an8-pathamapannasaka",
+    "name": "Gahapativagga",
+    "nameEn": "The Chapter on Householders ",
+    "acro": "AN 8.21-30"
+  },
+  {
+    "id": "an8-danavagga",
+    "parentId": "an8-pathamapannasaka",
+    "name": "Dānavagga",
+    "nameEn": "The Chapter on Giving ",
+    "acro": "AN 8.31-40"
+  },
+  {
+    "id": "an8-uposathavagga",
+    "parentId": "an8-pathamapannasaka",
+    "name": "Uposathavagga",
+    "nameEn": "The Chapter on Sabbath ",
+    "acro": "AN 8.41-50"
+  },
+  {
+    "id": "an8-dutiyapannasaka",
+    "parentId": "an8",
+    "name": "Dutiyapaṇṇāsaka",
+    "nameEn": "The Second Fifty ",
+    "acro": ""
+  },
+  {
+    "id": "an8-gotamivagga",
+    "parentId": "an8-dutiyapannasaka",
+    "name": "Gotamīvagga",
+    "nameEn": "The Chapter on Gotamī ",
+    "acro": "AN 8.51-60"
+  },
+  {
+    "id": "an8-bhumicalavagga",
+    "parentId": "an8-dutiyapannasaka",
+    "name": "Bhūmicālavagga",
+    "nameEn": "The Chapter on Earthquakes ",
+    "acro": "AN 8.61-70"
+  },
+  {
+    "id": "an8-yamakavagga",
+    "parentId": "an8-dutiyapannasaka",
+    "name": "Yamakavagga",
+    "nameEn": "The Chapter on Pairs ",
+    "acro": "AN 8.71-80"
+  },
+  {
+    "id": "an8-sativagga",
+    "parentId": "an8-dutiyapannasaka",
+    "name": "Sativagga",
+    "nameEn": "The Chapter on Mindfulness ",
+    "acro": "AN 8.81-90"
+  },
+  {
+    "id": "an8-samannavagga",
+    "parentId": "an8-dutiyapannasaka",
+    "name": "Sāmaññavagga",
+    "nameEn": "The Chapter on Similarity ",
+    "acro": "AN 8.91-117"
+  },
+  {
+    "id": "an8-ragapeyyala",
+    "parentId": "an8-dutiyapannasaka",
+    "name": "Rāgapeyyāla",
+    "nameEn": "Abbreviated Texts Beginning With Greed ",
+    "acro": "AN 8.118-627"
+  },
+  {
+    "id": "an9",
+    "parentId": "an",
+    "name": "Navakanipāta",
+    "nameEn": "The Book of the Nines ",
+    "acro": "AN 9"
+  },
+  {
+    "id": "an9-pathamapannasaka",
+    "parentId": "an9",
+    "name": "Paṭhamapaṇṇāsaka",
+    "nameEn": "The First Fifty ",
+    "acro": ""
+  },
+  {
+    "id": "an9-sambodhivagga",
+    "parentId": "an9-pathamapannasaka",
+    "name": "Sambodhivagga",
+    "nameEn": "The Chapter on Awakening ",
+    "acro": "AN 9.1-10"
+  },
+  {
+    "id": "an9-sihanadavagga",
+    "parentId": "an9-pathamapannasaka",
+    "name": "Sīhanādavagga",
+    "nameEn": "The Chapter on the Lion's Roar ",
+    "acro": "AN 9.11-20"
+  },
+  {
+    "id": "an9-sattavasavagga",
+    "parentId": "an9-pathamapannasaka",
+    "name": "Sattāvāsavagga",
+    "nameEn": "The Chapter on Abodes of Sentient Beings ",
+    "acro": "AN 9.21-31"
+  },
+  {
+    "id": "an9-mahavagga",
+    "parentId": "an9-pathamapannasaka",
+    "name": "Mahāvagga",
+    "nameEn": "The Great Chapter ",
+    "acro": "AN 9.32-41"
+  },
+  {
+    "id": "an9-samannavagga",
+    "parentId": "an9-pathamapannasaka",
+    "name": "Sāmaññavagga",
+    "nameEn": "The Chapter on Similarity ",
+    "acro": "AN 9.42-51"
+  },
+  {
+    "id": "an9-dutiyapannasaka",
+    "parentId": "an9",
+    "name": "Dutiyapaṇṇāsaka",
+    "nameEn": "The Second Fifty ",
+    "acro": ""
+  },
+  {
+    "id": "an9-khemavagga",
+    "parentId": "an9-dutiyapannasaka",
+    "name": "Khemavagga",
+    "nameEn": "The Chapter on a Safe Place ",
+    "acro": "AN 9.52-62"
+  },
+  {
+    "id": "an9-satipatthanavagga",
+    "parentId": "an9-dutiyapannasaka",
+    "name": "Satipaṭṭhānavagga",
+    "nameEn": "The Chapter on Mindfulness Meditation ",
+    "acro": "AN 9.63-72"
+  },
+  {
+    "id": "an9-sammappadhanavagga",
+    "parentId": "an9-dutiyapannasaka",
+    "name": "Sammappadhānavagga",
+    "nameEn": "The Chapter on Right Efforts ",
+    "acro": "AN 9.73-82"
+  },
+  {
+    "id": "an9-iddhipadavagga",
+    "parentId": "an9-dutiyapannasaka",
+    "name": "Iddhipādavagga",
+    "nameEn": "The Chapter on Bases of Psychic Power ",
+    "acro": "AN 9.83-92"
+  },
+  {
+    "id": "an9-ragapeyyala",
+    "parentId": "an9-dutiyapannasaka",
+    "name": "Rāgapeyyāla",
+    "nameEn": "Abbreviated Texts Beginning With Greed ",
+    "acro": "AN 9.93-432"
+  },
+  {
+    "id": "an10",
+    "parentId": "an",
+    "name": "Dasakanipāta",
+    "nameEn": "The Book of the Tens ",
+    "acro": "AN 10"
+  },
+  {
+    "id": "an10-pathamapannasaka",
+    "parentId": "an10",
+    "name": "Paṭhamapaṇṇāsaka",
+    "nameEn": "The First Fifty ",
+    "acro": ""
+  },
+  {
+    "id": "an10-anisamsavagga",
+    "parentId": "an10-pathamapannasaka",
+    "name": "Ānisaṁsavagga",
+    "nameEn": "The Chapter on Benefits ",
+    "acro": "AN 10.1-10"
+  },
+  {
+    "id": "an10-nathavagga",
+    "parentId": "an10-pathamapannasaka",
+    "name": "Nāthavagga",
+    "nameEn": "The Chapter on a Protector ",
+    "acro": "AN 10.11-20"
+  },
+  {
+    "id": "an10-mahavagga",
+    "parentId": "an10-pathamapannasaka",
+    "name": "Mahāvagga",
+    "nameEn": "The Great Chapter ",
+    "acro": "AN 10.21-30"
+  },
+  {
+    "id": "an10-pathamapannasaka-upalivagga",
+    "parentId": "an10-pathamapannasaka",
+    "name": "Upālivagga",
+    "nameEn": "The Chapter with Upāli ",
+    "acro": "AN 10.31-40"
+  },
+  {
+    "id": "an10-akkosavagga",
+    "parentId": "an10-pathamapannasaka",
+    "name": "Akkosavagga",
+    "nameEn": "The Chapter on Abuse ",
+    "acro": "AN 10.41-50"
+  },
+  {
+    "id": "an10-dutiyapannasaka",
+    "parentId": "an10",
+    "name": "Dutiyapaṇṇāsaka",
+    "nameEn": "The Second Fifty ",
+    "acro": ""
+  },
+  {
+    "id": "an10-sacittavagga",
+    "parentId": "an10-dutiyapannasaka",
+    "name": "Sacittavagga",
+    "nameEn": "The Chapter on Your Own Mind ",
+    "acro": "AN 10.51-60"
+  },
+  {
+    "id": "an10-yamakavagga",
+    "parentId": "an10-dutiyapannasaka",
+    "name": "Yamakavagga",
+    "nameEn": "The Chapter on Pairs ",
+    "acro": "AN 10.61-70"
+  },
+  {
+    "id": "an10-akankhavagga",
+    "parentId": "an10-dutiyapannasaka",
+    "name": "Ākaṅkhavagga",
+    "nameEn": "The Chapter on If You Want ",
+    "acro": "AN 10.71-80"
+  },
+  {
+    "id": "an10-theravagga",
+    "parentId": "an10-dutiyapannasaka",
+    "name": "Theravagga",
+    "nameEn": "The Chapter on Senior Mendicants ",
+    "acro": "AN 10.81-90"
+  },
+  {
+    "id": "an10-dutiyapannasaka-upalivagga",
+    "parentId": "an10-dutiyapannasaka",
+    "name": "Upālivagga",
+    "nameEn": "The Chapter with Upāli ",
+    "acro": "AN 10.91-100"
+  },
+  {
+    "id": "an10-tatiyapannasaka",
+    "parentId": "an10",
+    "name": "Tatiyapaṇṇāsaka",
+    "nameEn": "The Third Fifty ",
+    "acro": ""
+  },
+  {
+    "id": "an10-samanasannavagga",
+    "parentId": "an10-tatiyapannasaka",
+    "name": "Samaṇasaññāvagga",
+    "nameEn": "The Chapter on Perceptions for Ascetics ",
+    "acro": "AN 10.101-112"
+  },
+  {
+    "id": "an10-paccorohanivagga",
+    "parentId": "an10-tatiyapannasaka",
+    "name": "Paccorohaṇivagga",
+    "nameEn": "The Chapter on the Ceremony of Descent ",
+    "acro": "AN 10.113-122"
+  },
+  {
+    "id": "an10-parisuddhavagga",
+    "parentId": "an10-tatiyapannasaka",
+    "name": "Parisuddhavagga",
+    "nameEn": "The Chapter on Purified ",
+    "acro": "AN 10.123-133"
+  },
+  {
+    "id": "an10-tatiyapannasaka-sadhuvagga",
+    "parentId": "an10-tatiyapannasaka",
+    "name": "Sādhuvagga",
+    "nameEn": "The Chapter on Good ",
+    "acro": "AN 10.134-144"
+  },
+  {
+    "id": "an10-ariyavagga",
+    "parentId": "an10-tatiyapannasaka",
+    "name": "Ariyavagga",
+    "nameEn": "The Chapter on the Noble Path ",
+    "acro": "AN 10.145-154"
+  },
+  {
+    "id": "an10-catutthapannasaka",
+    "parentId": "an10",
+    "name": "Catutthapaṇṇāsaka",
+    "nameEn": "The Fourth Fifty ",
+    "acro": ""
+  },
+  {
+    "id": "an10-puggalavagga",
+    "parentId": "an10-catutthapannasaka",
+    "name": "Puggalavagga",
+    "nameEn": "The Chapter on Persons ",
+    "acro": "AN 10.155-166"
+  },
+  {
+    "id": "an10-janussonivagga",
+    "parentId": "an10-catutthapannasaka",
+    "name": "Jāṇussoṇivagga",
+    "nameEn": "The Chapter with Jāṇussoṇi ",
+    "acro": "AN 10.167-177"
+  },
+  {
+    "id": "an10-catutthapannasaka-sadhuvagga",
+    "parentId": "an10-catutthapannasaka",
+    "name": "Sādhuvagga",
+    "nameEn": "The Chapter on Good ",
+    "acro": "AN 10.178-188"
+  },
+  {
+    "id": "an10-ariyamaggavagga",
+    "parentId": "an10-catutthapannasaka",
+    "name": "Ariyamaggavagga",
+    "nameEn": "The Chapter on the Noble Path ",
+    "acro": "AN 10.189-198"
+  },
+  {
+    "id": "an10-ariyapuggalavagga",
+    "parentId": "an10-catutthapannasaka",
+    "name": "Aparapuggalavagga",
+    "nameEn": "Another Chapter on Persons ",
+    "acro": "AN 10.199-210"
+  },
+  {
+    "id": "an10-pancamapannasaka",
+    "parentId": "an10",
+    "name": "Pañcamapaṇṇāsaka",
+    "nameEn": "The Fifth Fifty ",
+    "acro": ""
+  },
+  {
+    "id": "an10-karajakayavagga",
+    "parentId": "an10-pancamapannasaka",
+    "name": "Karajakāyavagga",
+    "nameEn": "The Chapter on the Body Born of Deeds ",
+    "acro": "AN 10.211-220"
+  },
+  {
+    "id": "an10-samannavagga",
+    "parentId": "an10-pancamapannasaka",
+    "name": "Sāmaññavagga",
+    "nameEn": "The Chapter on Similarity ",
+    "acro": "AN 10.221-236"
+  },
+  {
+    "id": "an10-ragapeyyala",
+    "parentId": "an10-pancamapannasaka",
+    "name": "Rāgapeyyāla",
+    "nameEn": "Abbreviated Texts Beginning With Greed ",
+    "acro": "AN 10.237-746"
+  },
+  {
+    "id": "an11",
+    "parentId": "an",
+    "name": "Ekādasakanipāta",
+    "nameEn": "The Book of the Elevens ",
+    "acro": "AN 11"
+  },
+  {
+    "id": "an11-pathamapannasaka",
+    "parentId": "an11",
+    "name": "Paṭhamapaṇṇāsaka",
+    "nameEn": "The First Fifty ",
+    "acro": ""
+  },
+  {
+    "id": "an11-nissayavagga",
+    "parentId": "an11-pathamapannasaka",
+    "name": "Nissayavagga",
+    "nameEn": "The Chapter on Dependence ",
+    "acro": "AN 11.1-10"
+  },
+  {
+    "id": "an11-anussativagga",
+    "parentId": "an11-pathamapannasaka",
+    "name": "Anussativagga",
+    "nameEn": "The Chapter on Recollection ",
+    "acro": "AN 11.11-21"
+  },
+  {
+    "id": "an11-samannavagga",
+    "parentId": "an11-pathamapannasaka",
+    "name": "Sāmaññavagga",
+    "nameEn": "The Chapter on Similarity ",
+    "acro": "AN 11.22-981"
+  },
+  {
+    "id": "an11-ragapeyyala",
+    "parentId": "an11-pathamapannasaka",
+    "name": "Rāgapeyyāla",
+    "nameEn": "Abbreviated Texts Beginning With Greed ",
+    "acro": "AN 11.982-1151"
+  }
+]

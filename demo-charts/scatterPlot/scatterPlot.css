@@ -1,0 +1,7 @@
+body {
+    background-color: steelblue;
+}
+#scatterPlot svg{
+    background-color: white;
+    margin: auto;
+}

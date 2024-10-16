@@ -1,0 +1,7 @@
+body {
+    background-color: steelblue;
+}
+#sunburst svg{
+    background-color: white;
+    margin: auto;
+}

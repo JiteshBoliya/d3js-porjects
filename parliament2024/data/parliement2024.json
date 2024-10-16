@@ -1,0 +1,296 @@
+[
+  {
+    "id": 1,
+    "partyName": "Bharatiya Janata Party",
+    "title": "BJP",
+    "count": 240,
+    "color": "#ff944d"
+  },
+  {
+    "id": 2,
+    "partyName": "Indian National Congress",
+    "title": "INC",
+    "count": 99,
+    "color": "#19aaed"
+  },
+  {
+    "id": 3,
+    "partyName": "Samajwadi Party",
+    "title": "SP",
+    "count": 37,
+    "color": "#f2b8b0"
+  },
+  {
+    "id": 4,
+    "partyName": "Trinamool Congress",
+    "title": "AITC",
+    "count": 29,
+    "color": "#aebedf"
+  },
+  {
+    "id": 5,
+    "partyName": "Dravida Munnetra Kazhagam",
+    "title": "DMK",
+    "count": 22,
+    "color": "#f2d680"
+  },
+  {
+    "id": 6,
+    "partyName": "Telugu Desam Party",
+    "title": "TDP",
+    "count": 16,
+    "color": "#f280e2"
+  },
+  {
+    "id": 7,
+    "partyName": "Janata Dal (United)",
+    "title": "JD(U)",
+    "count": 12,
+    "color": "#d780f2"
+  },
+  {
+    "id": 8,
+    "partyName": "Shiv Sena (Uddhav Balasaheb Thackeray)",
+    "title": "SHSUBT",
+    "count": 9,
+    "color": "#80a4f2"
+  },
+  {
+    "id": 9,
+    "partyName": "Nationalist Congress Party (Sharadchandra Pawar)",
+    "title": "NCPSP",
+    "count": 8,
+    "color": "#f280d1"
+  },
+  {
+    "id": 10,
+    "partyName": "Shiv Sena",
+    "title": "SHS",
+    "count": 7,
+    "color": "#c8f280"
+  },
+  {
+    "id": 11,
+    "partyName": "Lok Janshakti Party",
+    "title": "LJPRV",
+    "count": 5,
+    "color": "#f2a580"
+  },
+  {
+    "id": 12,
+    "partyName": "YSR Congress Party",
+    "title": "YSRCP",
+    "count": 4,
+    "color": "#80f2a1"
+  },
+  {
+    "id": 13,
+    "partyName": "Rashtriya Janata Dal",
+    "title": "RJD",
+    "count": 4,
+    "color": "#f2c180"
+  },
+  {
+    "id": 14,
+    "partyName": "Communist Party of India (Marxist)",
+    "title": "CPI(M)",
+    "count": 4,
+    "color": "#ff1d15"
+  },
+  {
+    "id": 15,
+    "partyName": "Indian Union Muslim League",
+    "title": "IUML",
+    "count": 3,
+    "color": "#f2b480"
+  },
+  {
+    "id": 16,
+    "partyName": "Aam Aadmi Party",
+    "title": "AAAP",
+    "count": 3,
+    "color": "#0072b0"
+  },
+  {
+    "id": 17,
+    "partyName": "Jharkhand Mukti Morcha",
+    "title": "JMM",
+    "count": 3,
+    "color": "#f2db80"
+  },
+  {
+    "id": 18,
+    "partyName": "Jana Sena Party",
+    "title": "JnP",
+    "count": 2,
+    "color": "#80f2b4"
+  },
+  {
+    "id": 19,
+    "partyName": "Communist Party of India (Marxist-Leninist) Liberation",
+    "title": "CPI(ML)(L)",
+    "count": 2,
+    "color": "#e97d43"
+  },
+  {
+    "id": 20,
+    "partyName": "Janata Dal (Secular)",
+    "title": "JD(S)",
+    "count": 2,
+    "color": "#02865a"
+  },
+  {
+    "id": 21,
+    "partyName": "Viduthalai Chiruthaigal Katchi",
+    "title": "VCK",
+    "count": 2,
+    "color": "#d8f280"
+  },
+  {
+    "id": 22,
+    "partyName": "Communist Party of India",
+    "title": "CPI",
+    "count": 2,
+    "color": "#e70d21"
+  },
+  {
+    "id": 23,
+    "partyName": "Rashtriya Lok Dal",
+    "title": "RLD",
+    "count": 2,
+    "color": "#e2f280"
+  },
+  {
+    "id": 24,
+    "partyName": "Jammu & Kashmir National Conference",
+    "title": "JKN",
+    "count": 2,
+    "color": "#80f2c6"
+  },
+  {
+    "id": 25,
+    "partyName": "United People's Party Liberal",
+    "title": "UPPL",
+    "count": 1,
+    "color": "#f2c780"
+  },
+  {
+    "id": 26,
+    "partyName": "Asom Gana Parishad",
+    "title": "AGP",
+    "count": 1,
+    "color": "#3b02c9"
+  },
+  {
+    "id": 27,
+    "partyName": "Hindustani Awam Morcha",
+    "title": "HAMS",
+    "count": 1,
+    "color": "#b8f280"
+  },
+  {
+    "id": 28,
+    "partyName": "Kerala Congress",
+    "title": "KEC",
+    "count": 1,
+    "color": "#80f2cd"
+  },
+  {
+    "id": 29,
+    "partyName": "Revolutionary Socialist Party",
+    "title": "RSP",
+    "count": 1,
+    "color": "#e7f280"
+  },
+  {
+    "id": 30,
+    "partyName": "Nationalist Congress Party",
+    "title": "NCP",
+    "count": 1,
+    "color": "#80f2c4"
+  },
+  {
+    "id": 31,
+    "partyName": "Voice of the People Party",
+    "title": "VOTPP",
+    "count": 1,
+    "color": "#c2f280"
+  },
+  {
+    "id": 32,
+    "partyName": "Zoram People's Movement",
+    "title": "ZPM",
+    "count": 1,
+    "color": "#80f2e9"
+  },
+  {
+    "id": 33,
+    "partyName": "Shiromani Akali Dal",
+    "title": "SAD",
+    "count": 1,
+    "color": "#e9f280"
+  },
+  {
+    "id": 34,
+    "partyName": "Rashtriya Loktantrik Party",
+    "title": "RLTP",
+    "count": 1,
+    "color": "#80f2d5"
+  },
+  {
+    "id": 35,
+    "partyName": "Bharat Adivasi Party",
+    "title": "BHRTADVSIP",
+    "count": 1,
+    "color": "#d1f280"
+  },
+  {
+    "id": 36,
+    "partyName": "Sikkim Krantikari Morcha",
+    "title": "SKM",
+    "count": 1,
+    "color": "#80f2bd"
+  },
+  {
+    "id": 37,
+    "partyName": "Marumalarchi Dravida Munnetra Kazhagam",
+    "title": "MDMK",
+    "count": 1,
+    "color": "#caf280"
+  },
+  {
+    "id": 38,
+    "partyName": "Azad Samaj Party",
+    "title": "ASPKR",
+    "count": 1,
+    "color": "#80f2e0"
+  },
+  {
+    "id": 39,
+    "partyName": "Apna Dal",
+    "title": "ADAL",
+    "count": 1,
+    "color": "#8f5e1c"
+  },
+  {
+    "id": 40,
+    "partyName": "All Jharkhand Students Union",
+    "title": "AJSUP",
+    "count": 1,
+    "color": "#3a15f9"
+  },
+  {
+    "id": 41,
+    "partyName": "All India Majlis-E-Ittehadul Muslimeen",
+    "title": "AIMIM",
+    "count": 1,
+    "color": "#00664d"
+  },
+  {
+    "id": 42,
+    "partyName": "Independent",
+    "title": "IND",
+    "count": 7,
+    "color": "#80f2d8"
+  }
+]

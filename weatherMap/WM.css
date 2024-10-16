@@ -1,0 +1,47 @@
+body {
+    margin: 0px;
+}
+
+.tempLable {
+    font-size: 3px;
+    fill: white;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.tooltip {
+    position: absolute;
+    background: white;
+    color: black;
+    font-size: 10px;
+    border-radius: 5px;
+    display: none;
+    min-height: 150px;
+    min-width: 300px;
+}
+
+.tooltipSpace {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.color_label_text {
+    font-size: 2px;
+    font-weight: bold;
+    stroke-width: 0;
+}
+
+.tooltipConatiner1 {
+    margin: 5px;
+    width: 100%;
+}
+
+.tooltipTitle {
+    padding: 0px 10px;
+    color: white;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}

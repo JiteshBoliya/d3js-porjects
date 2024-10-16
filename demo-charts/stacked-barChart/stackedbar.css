@@ -1,0 +1,10 @@
+body {
+    background-color: steelblue;
+}
+#stackedbar{
+    background-color: white;
+    margin: auto;
+}
+.tick line{
+    color: rgb(179, 179, 179);
+}

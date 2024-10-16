@@ -1,0 +1,7 @@
+body {
+    background-color: steelblue;
+}
+#treeGraph svg{
+    background-color: white;
+    margin: auto;
+}

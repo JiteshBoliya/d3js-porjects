@@ -1,0 +1,25 @@
+html,
+body {
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: gray;
+}
+
+.blog {
+    width: 60%;
+    padding: 10px;
+    background-color: black;
+    color: white;
+
+}
+
+.svg-class {
+    height: 800px;
+}
+
+#boroughsChoroplethSvg {
+    height: 200px;
+}

@@ -1,0 +1,7 @@
+body {
+    background-color: steelblue;
+}
+#bubbleChart svg{
+    background-color: white;
+    margin: auto;
+}

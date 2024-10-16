@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./chordGraph.css">
+    <title>chordGraph</title>
+</head>
+
+<body>
+    <div class="top-bar">
+        <h3>
+            Chord graph of top 5 countries going to Canada.
+        </h3>
+    </div>
+    <div class="chart">
+        <div id="dropdownContainer" class="dropdown-container">
+            <button onclick="toggleDropdown('country')" id="countryDropdownButton" class="dropdown-button">
+                Select Country</button>
+            <div id="countryDropdown" class="dropdown-content countryContant">
+            </div>
+            <button onclick="toggleDropdown('year')" id="yearDropdownButton" class="dropdown-button">Select
+                Year</button>
+            <div id="yearDropdown" class="dropdown-content yearContent">
+            </div>
+        </div>
+        <div id="chordGraph"></div>
+    </div>
+    <div id="tooltip"></div>
+</body>
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script src="./chordGraph.js"></script>
+
+</html>

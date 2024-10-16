@@ -1,0 +1,7 @@
+body {
+    background-color: steelblue;
+}
+#candlestick svg{
+    background-color: white;
+    margin: auto;
+}

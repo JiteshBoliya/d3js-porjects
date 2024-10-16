@@ -1,0 +1,34 @@
+* {
+    margin: 0px;
+}
+
+.usernameLable {
+    font-size: 10px;
+    fill: gray;
+}
+
+/* Links */
+.normalLink {
+    fill: none;
+    stroke: gray;
+    stroke-width: 1.5px;
+}
+
+.dashedLink {
+    fill: none;
+    stroke: green;
+    stroke-dasharray: 2;
+    stroke-width: 1px;
+}
+
+/* nodes */
+.nodes {
+    stroke: black;
+    stroke-width: 0.5px;
+    cursor: pointer;
+}
+
+.nodeLable {
+    font-weight: bold;
+    fill: black;
+}

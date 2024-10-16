@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./TCMap.css">
+    <title>How old are you, Thessaloniki?</title>
+</head>
+
+<body>
+    <div class="blog">
+        <h1>How old are you, Thessaloniki?</h1>
+        <div class="container">
+            <div>
+                <p>
+                    The devastating earthquakes that hit Turkey and Syria at the beginning of February 2023 brought back
+                    to
+                    the public debate the question of how safe buildings are in our country. And while experts reassure
+                    the
+                    public considering how strict our anti-seismic regulation is, one can easily ask: how old are the
+                    buildings in Thessaloniki and what happens to those built before the first anti-seismic regulation,
+                    in
+                    1959?
+                </p>
+                <p>
+                    Open data on the construction year of the city's buildings is unfortunately not available. So we
+                    turned
+                    to... the classifieds. By meticulously collecting over 46,114 online home sales posted between 2015
+                    and
+                    2019, we were able to visualize the age distribution of the city's building infrastructure through
+                    the
+                    corresponding mark on Google Maps.
+                </p>
+                <p>
+                    The graph below represents the locations of the shops within the city limits with their year of
+                    construction on the topographic map of Thessaloniki.
+                </p>
+            </div>
+            <div id="svgContainer" class="svg-class"></div>
+            <div>
+                <p>
+                    By zooming in on the years when the anti-seismic regulations were issued, both the pre-1959
+                    buildings
+                    and how the city eventually expanded both east and west become clearer, while the historic center
+                    appears to include the oldest buildings as well.
+                </p>
+            </div>
+            <div id="svgContainer2" class="svg-class"></div>
+            <div>
+                <p>
+                    The next step is to map the shops on the (nearest) building blocks of general and exclusive
+                    residential zones, based on the relevant topographic background of land uses of the geospatial
+                    information department of the Municipality of Thessaloniki. By comparing the location of each shop
+                    and the coordinates of the building blocks we can arrive at their estimated positions in the urban
+                    complex.
+                </p>
+                <p>
+                    The graph below represents the average construction age for each building block. Toumba, New
+                    Switzerland, the Voulgari area, parts of the Upper Town, as well as the Kalhanokipoi include
+                    residences with the most modern versions of the anti-seismic regulations.
+                </p>
+            </div>
+            <div id="svgContainer3" class="svg-class"></div>
+            <div>
+                <p>
+                    Extreme values in the sample can significantly affect the average value. Building blocks that
+                    include few old or just a few new properties show a skewed average price. For this purpose the
+                    median value can more realistically capture the age that is right in the middle of the sample. As it
+                    becomes evident, in the decades of the 60s and 70s the city was built rapidly, with these buildings
+                    being relatively newly built in the great Volvi earthquake of 1978.
+                </p>
+            </div>
+            <div id="svgContainer4" class="svg-class"></div>
+            <div>
+                <p>
+                    It's also worth looking at when the oldest structure in each building block appears and how it
+                    compares to the landmark year 1959, when the country's first mandatory earthquake regulation was
+                    issued. In almost every neighborhood of the Historic Center, from Lefko Pyrgos and Aristotelous to
+                    Rotunda and Diokitirio, there appears to be at least one property that was built without any
+                    mandatory code.
+                </p>
+                <p>
+                    Such properties are now more than 60 years old and may either lie abandoned in narrow alleys or
+                    still be used as residential or commercial premises. The behavior of these building facilities in a
+                    potentially strong seismic vibration, although it cannot be easily predicted, is certainly important
+                    to study in time.
+                </p>
+            </div>
+            <div id="svgContainer5" class="svg-class"></div>
+            <div>
+                <p>
+                    Below is shown the age distribution in the house sales of the whole sample for the Municipality of
+                    Thessaloniki, as well as for the individual districts of the city. Lefkos Pyrgos and Aristotelous
+                    have some of the oldest structures and New Switzerland with Voulgari - Kifisia have the newest.
+                </p>
+            </div>
+            <select name="select" id="selectElement"></select>
+            <div id="boroughsChoroplethSvg"></div>
+            <div id="histogramChartSvg"></div>
+            <div>
+                <p>
+                    Likewise in the distribution of properties in relation to the years of issuance of the
+                    anti-earthquake regulations, as shown below.
+                </p>
+            </div>
+            <div id="barChartSvg"></div>
+            <!-- <h2>Some thoughts</h2> -->
+            <div>
+                <!-- <p>
+                    I believe that data remains just trivial numbers and scattered letters until properly visualized to
+                    tell its story. Growing up in Thessaloniki, I myself have experienced the earth shaking and
+                    experienced the feeling it causes. The question of whether the buildings in my city are safe has
+                    never stopped bothering me.
+                </p>
+                <p>
+                    Collecting classified ads posted online creates a data source that with proper processing - mainly
+                    cleaning up irrelevant/incomplete posts and site filtering - has many stories to tell. This data is
+                    available here.
+                </p>
+                <p>
+                    Open data can capture reality better than any intermediate solution, and I hope the building
+                    features of the city will become available at some point. For the graphics above, the city
+                    backgrounds from SDI Thessaloniki played a key role. I hope the effort continues.
+                </p> -->
+                <a href="https://observablehq.com/@infographeo/what-is-your-age-thessaloniki?collection=@observablehq/featured-creators"
+                    target="_blank">
+                    @infographeo/what-is-your-age-thessaloniki
+                </a>
+            </div>
+        </div>
+    </div>
+</body>
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script src="https://unpkg.com/topojson@3"></script>
+<script src="./TCMap.js"></script>
+
+</html>
